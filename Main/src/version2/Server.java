@@ -28,8 +28,8 @@ public class Server {
                     System.out.println("Cliente conectado desde: "+ sock.getLocalAddress().getHostName());
                     AddUserName(sock);
                     Server_Return CHAT = new Server_Return(sock);
-                    Thread X = new Thread(CHAT);
-                    X.start();
+                    Thread x = new Thread(CHAT);
+                    x.start();
                 }
             }
             catch(Exception e){
@@ -37,8 +37,8 @@ public class Server {
             }
         }
 
-    private static void AddUserName(Socket S) throws IOException{
-        Scanner input = new Scanner(S.getInputStream());
+    private static void AddUserName(Socket x) throws IOException{
+        Scanner input = new Scanner(x.getInputStream());
         String UserName = input.nextLine();
         CurrentUsers.add(UserName);
         

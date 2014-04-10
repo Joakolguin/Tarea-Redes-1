@@ -8,31 +8,19 @@ package main;
 import java.net.*;
 import java.io.*;
 public class Servidor {
-    public static void main(String[] args){
-        ServerSocket servidor= null;
-        String line;
-        PrintStream os= null;
-        DataInputStream is= null;
-        Socket clientSocket= null;
-        try{
-            servidor= new ServerSocket(9999);
-        }
-        catch(IOException e){
-            System.out.println(e);
-        }
-        try{
-            clientSocket = servidor.accept();
-            is= new DataInputStream(clientSocket.getInputStream());
-            os = new PrintStream(clientSocket.getOutputStream());
-            
-            while (true){
-                line= is.readLine();
-                os.println(line);
-            }
-        }
-        catch(IOException e){
-            System.out.println(e);
-        }
-        
-    }
+   public static void main(String[] args) throws Exception{
+       Servidor serv = new Servidor();
+       serv.run();
+   }
+   public void run() throws Exception {
+       ServerSocket servidorSK = new ServerSocket(9999);
+       Socket sk = servidorSK.accept();
+       InputStreamReader isr= new InputStreamReader(sk.getInputStream());
+       BufferedReader br =new BufferedReader(isr);
+       String message = br.readLine();
+       if(message!= null){
+           PrintStream ps=new PrintStream(sk.getOutputStream());
+           ps.println("mensaje recibido");
+       }
+   }
 }
