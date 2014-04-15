@@ -1,0 +1,3402 @@
+ <!DOCTYPE html>
+<html lang="es">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1"/>
+<title>EL MUNDO - Diario online l�der de informaci�n en espa�ol</title>
+<meta name="description" content="Noticias, actualidad, �lbumes, debates, sociedad, servicios, entretenimiento y �ltima hora en Espa�a y el mundo"/>
+<meta name="keywords" content="elmundo, elmundo.es, El Mundo, Diario, periodico, peri�dico, noticias, Espa�a, Espana, internacional, economia, econom�a, dinero, opinion, ultimas noticias, deportes, sport, Madrid, politica, Catalu�a, Catalunya, navegante, internet, Salud, Metropoli, Spain, daily, newspaper, news, breaking news, urgente, technology, tecnolog�a, tiempo, weather, buscador"/>
+<meta name="date" content="2014-04-15T02:13:56+02:00"/>
+<meta name="robots" content="index,follow"/>
+<meta name="organization" content="Unidad Editorial Informaci�n General S.L.U."/>
+<!-- ##IBEXCLU -->
+<link rel="canonical" href="http://www.elmundo.es/"/>
+<link rel="publisher" href="https://plus.google.com/u/0/+elmundo"/>
+<!-- ##FBEXCLU -->
+<meta property="article:modified_time" content="2014-04-15T02:13:56+02:00"/>
+<meta property="article:section" content="Portada"/>
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:site" content="@elmundoes"/>
+<meta name="twitter:title" content="EL MUNDO - Diario online l�der de informaci�n en espa�ol"/>
+<meta name="twitter:image" content="http://estaticos.elmundo.es/assets/desktop/master/img/iconos/elmundo.png"/>
+<meta name="twitter:description" content="Noticias, actualidad, �lbumes, debates, sociedad, servicios, entretenimiento y �ltima hora en Espa�a y el mundo"/>
+<meta property="og:title" content="EL MUNDO - Diario online l�der de informaci�n en espa�ol"/>
+<meta property="og:description" content="Noticias, actualidad, �lbumes, debates, sociedad, servicios, entretenimiento y �ltima hora en Espa�a y el mundo"/>
+<meta property="og:url" content="http://www.elmundo.es/"/>
+<meta property="og:type" content="website"/>
+<meta property="og:image" content="http://estaticos.elmundo.es/assets/desktop/master/img/iconos/elmundo.png"/>
+<meta property="og:site_name" content="ELMUNDO"/>
+<meta property="fb:app_id" content="279395918757488"/>
+<link href="//estaticos02.elmundo.es/rss/portada.xml" rel="alternate" type="application/rss+xml" title="RSS Portada"/>
+<link href="//estaticos03.elmundo.es/favicon.ico" type="image/ico" rel="icon"/>
+<link href="//estaticos04.elmundo.es/favicon.ico" type="image/ico" rel="shortcut icon"/>
+<link href="//estaticos01.elmundo.es/assets/desktop/master/css/base.css" rel="stylesheet" type="text/css"/>
+<link href="//estaticos02.elmundo.es/assets/desktop/master/css/portada.css" rel="stylesheet" type="text/css">
+<!--[if IE]>
+        <link href="http://estaticos.elmundo.es/assets/desktop/master/css/ie.css" media="all" rel="stylesheet" type="text/css" />
+        <link href="http://estaticos.elmundo.es/assets/desktop/master/css/ie2.css" media="all" rel="stylesheet" type="text/css" />
+        <link href="http://estaticos.elmundo.es/assets/desktop/master/css/ie3.css" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<!--[if IE 9]>
+        <link href="http://estaticos.elmundo.es/assets/desktop/master/css/ie9.css" media="all" rel="stylesheet" type="text/css" />
+    <![endif]-->
+<!--[if lt IE 9]>
+        <script src="http://estaticos.elmundo.es/js/html5.js"></script>
+        <script src="http://estaticos.elmundo.es/assets/desktop/master/js/ie8.js" type="text/javascript"></script>
+    <![endif]-->
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-utils.js" type="text/javascript"></script>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-publi.js" type="text/javascript"></script>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-ajax.js" type="text/javascript"></script>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-lbox.js" type="text/javascript"></script>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-login.js" type="text/javascript"></script>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-redes_sociales.js" type="text/javascript"></script>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-tabs.js" type="text/javascript"></script>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-carrusel.js" type="text/javascript"></script>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/ue-debates-handler.js" type="text/javascript"></script>
+<script language="javaScript" type="text/javascript">
+            function autoRefresh()
+            {
+                window.location = location.href;
+            }
+            setTimeout('autoRefresh()', eval(900 * 1000));
+        </script>
+<noscript>
+<meta http-equiv="Refresh" content="900"/>
+</noscript>
+<link rel="stylesheet" href="http://estaticos.elmundo.es/assets/desktop/master/css/publireportaje/publireportaje.css" type="text/css" media="all"/>
+<style type="text/css">.cambio-version{background:#fff;box-shadow:0 6px 8px -4px rgba(0,0,0,0.82);text-align:center;position:absolute;top:0;width:1280px;z-index:9999999;}.cambio-version>div{width:100%;}.cambio-version>div a{float:left;padding:40px 0px;}.cambio-version>div a.cerrar{background:#000;padding:40px 0px;width:17%;border:4px solid #fff;}.cambio-version>div a.cambio{background:url("http://estaticos.elmundo.es/em/m/img/switchmobile.png") no-repeat center left;text-indent:-9999px;min-height:200px;width:83%;}</style>
+</head>
+<body class="Portada Col-4-2-4-2 Portada Portada"><div id="pixelcontabilizacionelmundo" class="pixelcontabilizacion" style="position:absolute;top:0px;left:0px;width:1px;height:1px;z-Index:1"><img src="http://pixelcounter.elmundo.es/pixelcontabilizacion/pixelcontabilizacion.gifctl?r=http%3A%2F%2Fwww%2Eelmundo%2Ees%2F%2Findex%2Ehtml&amp;s=elmundo&amp;d=U0yChMCoFZUAAEQ4bFY" width="1" height="1" alt="" />
+<script type="text/javascript">
+function DM_prepClient(csid,client) {
+    var cat=document.location.href.split('/');
+    url_section = cat[6];
+    client.DM_addEncToLoc("as_section",url_section);
+}
+</script></div>
+<script type="text/javascript" language="JavaScript" src="http://estaticos.elmundo.es/js/comunes.js"></script>
+<script type="text/javascript" language="javascript" src="http://estaticos.cookies.unidadeditorial.es/js/policy.js"></script>
+
+<div class="cambio-version" id="popup-cambio-version"><div><a href="javascript:;" onclick="ueHeader.changeUserOption();return false;" class="cerrar"><img src="//estaticos03.elmundo.es/em/m/img/xswitchmobile.png" alt="cerrar"></a><a href="javascript:;" onclick="ueHeader.changeDevice('m');return false;" class="cambio"> Cambiar a la versi�n m�vil de ELMUNDO.es </a></div></div> <div id="contenedor" class="contenedor">
+ 
+<div class="publicidad publicidad-superior">
+<!-- CrawlerB. -->
+<div style="position:absolute;top:0px;left:0px;width:1px;height:1px;visibility:hidden;z-Index:2"><img sRc="http://anapixel.elmundo.es/prueba.gif?campaign=zz%5Fagent&group=agent&page=mundo%5Fagent%5Fb&creativity=agent&endpartialtimestamp=77359400&sign=ed3c2189b8596c3620e48522125f560c&type=gif" width="1" height="1" border="0" alt="anapixel"/></div>
+</div>
+ 
+<header class="cabecera" role="banner">
+<div>
+<div class="ediciones" onclick="ueUtils.toggleClass('ediciones','open');">
+<span>Espa&ntilde;a</span> <ul id="ediciones" class="close">
+<li><a href="javascript:;" onclick="ueHeader.changeEdition('n');return false;">Espa&ntilde;a</a></li>
+<li><a href="javascript:;" onclick="ueHeader.changeEdition('a');return false;">Am&eacute;rica</a></li>
+</ul>
+</div>
+<div class="versiones" onclick="ueUtils.toggleClass('versiones','open');">
+<span>Cl&aacute;sica</span>
+<ul id="versiones" class="close">
+<li><a href="javascript:;" onclick="ueHeader.changeDevice('e');return false;">Cl&aacute;sica</a></li>
+<li><a href="javascript:;" onclick="ueHeader.changeDevice('m');return false;">M&oacute;vil</a></li>
+</ul>
+</div>
+</div>
+<div>
+<a href="http://quiosco.orbyt.es/" class="orbyt" title="Orbyt"><img alt="Orbyt" src="http://estaticos.elmundo.es/assets/desktop/master/img/iconos/logo-orbyt.png"></a>
+<ul class="siguenos">
+<li>
+<a href="http://www.facebook.com/elmundo" class="facebook" title="S�guenos en Facebook">
+<img src="//estaticos04.elmundo.es/assets/desktop/master/img/redes-sociales/facebook_cab.png" alt="Facebook">
+</a>
+</li>
+<li>
+<a href="http://twitter.com/elmundoes" class="twitter" title="S�guenos en Twitter">
+<img src="//estaticos01.elmundo.es/assets/desktop/master/img/redes-sociales/twitter_cab.png" alt="Twitter">
+</a>
+</li>
+<li>
+<a href="https://plus.google.com/+elmundo" class="google" title="S�guenos en Google+">
+<img src="//estaticos01.elmundo.es/assets/desktop/master/img/redes-sociales/google_cab.png" alt="Google +">
+</a>
+</li>
+</ul>
+<form id="buscador_cabecera" method="get" role="search" name="buscador_cabecera" class="buscador" action="http://buscador.elmundo.es/perl/busca-generico.html">
+<input id="btSubmit" type="submit" onclick="ueHeader.search();return false;" class="open" value="Buscar">
+<input id="buscar" class type="text" placeholder="Buscar" value name="cadena">
+<input type="hidden" name="donde" value="11" id="enelmundoes">
+<input value name="b_avanzada" type="hidden">
+</form>
+<div id="mundoSocialToolbar" class="comunidad">
+<a href="https://seguro.elmundo.es/compras/quiosco?cid=PAYCI23301&s_kw=em72x26" class="paywall">Suscr&iacute;bete</a>
+<a href="https://seguro.elmundo.es/elmundo/login/login.html" onclick="ueLogin.open(); return false;">Iniciar sesi&oacute;n</a> </div>
+<script type="text/javascript">
+            ueLogin.addCallback("login", function () {
+                var obj = document.getElementById("mundoSocialToolbar");
+                var url = "/em/social.html";
+                if (obj) {
+                    obj.innerHTML = ueAjax.getRequest(url, "text");
+                }
+            });
+        </script>
+</div>
+<div class="publicidad-cabecera-a">
+<!-- CrawlerB. -->
+</div>
+<h1>
+<a href="http://www.elmundo.es/" title="Ir a la portada de elmundo.es" id="logo">
+<img src="//estaticos02.elmundo.es/assets/desktop/master/img/iconos/elmundo-portada.png" itemprop="logo" alt="elmundo.es">
+</a>
+<time datetime="2014-04-15T02:13:56+02:00">15 de abril de 2014, actualizado a las <strong>2:13</strong> horas</span>
+</h1>
+<div class="publicidad-cabecera-b">
+<!-- CrawlerB. -->
+</div>
+ 
+</header>
+ 
+<nav role="navigation" class="navegacion">
+<div class="menu-desplegable">
+<span itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<a itemprop="url" onclick="return ueMenu.toggle(event);" href="http://www.elmundo.es"><span itemprop="title">Inicio</span></a>
+</span>
+<div id="desplegable" class="nav-portal">
+<ul class="nav-secciones">
+<li class="espana"><a href="http://www.elmundo.es/espana.html">Espa&ntilde;a</a></li>
+<li class="opinion"><a href="http://www.elmundo.es/opinion.html">Opini&oacute;n</a></li>
+<li class="mundo"><a href="http://www.elmundo.es/internacional.html">Internacional</a></li>
+<li class="economia"><a href="http://www.elmundo.es/economia.html">Econom&iacute;a</a></li>
+<li class="deportes"><a href="http://www.elmundo.es/deportes.html">Deportes</a></li>
+<li class="cultura"><a href="http://www.elmundo.es/cultura.html">Cultura</a></li>
+<li class="metropoli"><a href="http://www.metropoli.com">Metr&oacute;poli</a></li>
+<li class="ciencia"><a href="http://www.elmundo.es/ciencia.html">Ciencia</a></li>
+<li class="tecnologia"><a href="http://www.elmundo.es/tecnologia.html">Navegante</a></li>
+<li class="television"><a href="http://www.elmundo.es/television.html">Televisi&oacute;n</a></li>
+<li class="loc"><a href="http://www.elmundo.es/elmundo/gentes.html">L/O/C</a></li>
+<li class="ocholeguas"><a href="http://www.ocholeguas.com">Viajes</a></li>
+<li class="yodona"><a href="http://www.elmundo.es/yodona.html">Yodona</a></li>
+<li class="tendencias"><a href="http://www.elmundo.es/elmundo/tendencias.html">Tendencias</a></li>
+<li class="salud"><a href="http://www.elmundo.es/salud.html">Salud</a></li>
+<li class="motor"><a href="http://www.elmundo.es/motor.html">Motor</a></li>
+<li class="el-mundo-tv"><a href="http://www.elmundo.es/elmundotv/index.html">ELMUNDO TV</a></li>
+<li class="nauta"><a href="http://nauta360.expansion.com/">N&aacute;utica</a></li>
+<li class="cronica"><a href="http://www.elmundo.es/cronica.html">Cr&oacute;nica</a></li>
+<li class="madrid"><a href="http://www.elmundo.es/madrid.html">Madrid</a></li>
+<li class="andalucia"><a href="http://www.elmundo.es/andalucia.html">Andaluc&iacute;a</a></li>
+<li class="baleares"><a href="http://www.elmundo.es/baleares.html">Baleares</a></li>
+<li class="barcelona"><a href="http://www.elmundo.es/catalunya.html">Catalu&ntilde;a</a></li>
+<li class="valencia"><a href="http://www.elmundo.es/comunidad-valenciana.html">C. Valenciana</a></li>
+<li class="pais-vasco"><a href="http://www.elmundo.es/pais-vasco.html">Pa&iacute;s Vasco</a></li>
+</ul>
+<ul class="nav-servicios">
+<li class="servicios"><a href="http://www.elmundo.es/servicios/index.html">Servicios</a></li>
+<li class="shopping"><a href="http://www.elmundo.es/shopping/index.html">Shopping</a></li>
+</ul>
+</div></div>
+<ol class="nav-miga nthchild" data-nthchild="0"><li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+<a href="http://www.elmundo.es/" itemprop="url">
+<span itemprop="title">Secciones</span>
+</a><ul><li>
+<a href="http://www.elmundo.es/espana.html?cid=MENUHOM24801">Espa�a</a>
+</li><li>
+<a href="http://www.elmundo.es/opinion.html">Opini�n</a>
+</li><li>
+<a href="http://www.elmundo.es/economia.html?cid=MENUHOM24801">Econom�a</a>
+</li><li>
+<a href="http://www.elmundo.es/internacional.html?cid=MENUHOM24801">Internacional</a>
+</li><li>
+<a href="http://www.elmundo.es/cultura.html?cid=MENUHOM24801">Cultura</a>
+</li><li>
+<a href="http://www.elmundo.es/cultura/toros.html">Toros</a>
+</li><li>
+<a href="http://www.elmundo.es/deportes.html?cid=MENUHOM24801">Deportes</a>
+</li><li>
+<a href="http://www.elmundo.es/tecnologia.html?cid=MENUHOM24801">Tecnolog�a</a>
+</li><li>
+<a href="http://www.elmundo.es/ciencia.html?cid=MENUHOM24801">Ciencia</a>
+</li><li>
+<a href="http://www.elmundo.es/motor.html?cid=MENUHOM24801">Motor</a>
+</li><li>
+<a href="http://www.ocholeguas.com/index.html?cid=MENUHOM24801">Viajes</a>
+</li><li>
+<a href="http://www.elmundo.es/madrid.html?cid=MENUHOM24801">Madrid</a>
+</li></ul></li></ol>
+</nav>
+<div class="es-noticia">
+<ul><li><a href="http://www.elmundo.es/internacional/2014/04/14/534b461822601dc87b8b4575.html">Ucrania</a></li>
+<li><a href="http://www.elmundo.es/deportes/2014/04/14/534afa06e2704eac3c8b456f.html">Entrevista a Carlo Ancelotti</a></li>
+<li><a href="http://www.elmundo.es/tecnologia/2014/04/14/534c05db22601d1f678b4578.html">Ibn Rusd Averroes</a></li>
+<li><a href="http://www.elmundo.es/economia/2014/04/13/534ad6adca4741830f8b4575.html">Financiaci�n catalana</a></li>
+<li><a href="http://www.elmundo.es/internacional/2014/04/14/534b464a22601dd87b8b4573.html">Valpara�so</a></li>
+<li><a href="http://www.elmundo.es/deportes/2014/04/14/534ba7ef22601d45678b456e.html">Ferrari</a></li>
+<li><a href="http://www.elmundo.es/especiales/2014/cultura/spiderman/stan-lee.html">Stan Lee</a></li>
+<li><a href="http://www.elmundo.es/deportes.html">Liga</a></li>
+</ul>
+</div>  
+ 
+<div class="publicidad publicidad-superior-bajo-navegacion">
+<!-- CrawlerB. -->
+</div>
+<div id="contenido" class="contenido" role="main">  
+<div class="col col-12">
+<div class="col col-10">
+                    
+
+
+                                                                                                                                                                                                                                                                            
+
+
+                                                                                                                                                                                                                                                                                    
+
+
+                                                                                                                                                                                                                                                                            
+
+
+                                                                                                                                                                                                                                                                                    
+
+
+                                                                                                                                                                                                                                                                            
+
+
+                                                                                                                                                                                                                                                                                    
+
+
+                                                                                                                                                                                                                                                                                    
+	
+                    <div class="col col-4">
+<div class="bloque fijo-100 nthchild" data-col="4" data-nthchild="1">
+<article class="noticia 
+        internacional
+        ">
+<header>
+<h1 class="title-180 izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534beea9ca4741af4f8b4575.html">Ucrania aprueba el decreto para lanzar una operaci�n en el este del pa�s</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+XAVIER COL�S
+</span>
+<span>
+<span>Donetsk</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            70">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534beea9ca4741af4f8b4575.html#comentarios" title="Ver comentarios"> 70</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El presidente ucraniano ya ha firmado el decreto. Ayer dio un ultim�tum a los prorrusos que tomaron varios edificios gubernamentales en el este del pa�s, que ha finalizado esta ma�ana.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/internacional/2014/04/14/534bcb9fe2704e99238b4573.html">Lavrov niega que Rusia interfiera en Ucrania</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/e/uc/ucrania.html">M�s informaci�n sobre la crisis en Ucrania</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/internacional/2014/04/14/534c18b8ca4741b34f8b457f.html">Valls: 'La paz es muy fr�gil'</a>
+</li>
+</ul>
+</article>
+<article class="noticia relacionada
+        internacional
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534c248de2704e78238b4584.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975019117386.jpg" width="292" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c2b2eca47418c4f8b4586.html">La UE activar� sanciones a Rusia si no ayuda a estabilizar Ucrania</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+JAVIER G. GALLEGO
+</span>
+<span>
+<span>Corresponsal</span>
+<span>Bruselas</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            3">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c2b2eca47418c4f8b4586.html#comentarios" title="Ver comentarios"> 3</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Sigue habiendo disparidad de posturas cuando se trata de calibrar la respuesta a Rusia. Han ampliado la lista de sancionados, a�adiendo a cuatro autoridades rusas m�s.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/internacional/2014/04/14/534bb450ca4741954f8b457d.html">El presidente ucraniano plantea un refer�ndum sobre la forma de Estado</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/internacional/2014/04/14/534b9987ca4741be4f8b4571.html">Rusia prueba un misil intercontinental</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        comunidad-valenciana
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/comunidad-valenciana/2014/04/14/534c2a16ca4741bf4f8b4589.html">Un hombre solicita el carn� de donante de �rganos y despu�s se suicida</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+R. TERRASA
+</span>
+<span>
+<span>Valencia</span>
+</span>
+</div>
+</address>
+</footer>
+<div class="entradilla">
+<p>Un hombre ha acudido al centro de coordinaci�n de trasplantes del Hospital La Fe (Valencia) y ha anunciado su intenci�n de hacerse donante. Despu�s, se ha quitado la vida en los ba�os.</p>
+</div>
+</article>
+<article class="noticia 
+        tecnologia
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/tecnologia/2014/04/14/534c29aee2704e9f238b4587.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975014664343.jpg" width="317" alt="Uno de los modelos de Titan Aerospace."/>
+</a>
+<p class="pie">
+<span>Uno de los modelos de Titan Aerospace.</span>
+<span class="agencia">E.M.</span>
+</p>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/tecnologia/2014/04/14/534c29aee2704e9f238b4587.html">Google adquiere un codiciado fabricante de drones solares</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            4">
+<a href="http://www.elmundo.es/tecnologia/2014/04/14/534c29aee2704e9f238b4587.html#comentarios" title="Ver comentarios"> 4</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Ha comprado Titan Aerospace, empresa especializada en la fabricaci�n de aviones no tripulados, por la que Facebook tambi�n se hab�a interesado.</p>
+</div>
+</div>
+</article>
+<article class="noticia destacada
+        television
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/television/2014/04/14/534c38efe2704e9c238b4580.html">El 'caso Snowden' da el Pulitzer a The Guardian y The Washington Post</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+PABLO PARDO
+</span>
+<span>
+<span>Washington</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/television/2014/04/14/534c38efe2704e9c238b4580.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla con-foto">
+<div class="foto lateral">
+<a href="http://www.elmundo.es/television/2014/04/14/534c38efe2704e9c238b4580.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975044500159.jpg" width="147" alt="El ex t�cnico de la CIA, Edward Snowden."/>
+</a>
+</div>
+<p>Los diarios han sido galardonados con el premio Pulitzer en la categor�a de servicio p�blico por sus informaciones sobre el espionaje de EEUU.</p>
+</div>
+</article>
+<article class="noticia 
+        andalucia
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/andalucia/2014/04/14/534c41ad268e3ede6c8b457e.html">Detienen al ex alcalde de La Algaba de IU tras la orden de b�squeda para que ingrese en prisi�n</a>
+</h1>
+</header>
+<div class="entradilla">
+<p>Cumplir� una condena de dos a�os y seis meses por un delito de cohecho tras pedir a unos empresarios 60.000 euros a cambio de una concesi�n.</p>
+</div>
+</article>
+<article class="noticia 
+        internacional
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c49a9268e3efb6c8b458a.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975087406604.jpg" width="317" alt="Unos ni�os durmiendo a cielo abierto en Managua."/>
+</a>
+<p class="pie">
+<span>Unos ni�os durmiendo a cielo abierto en Managua.</span>
+<span class="agencia">AFP</span>
+</p>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c49a9268e3efb6c8b458a.html">Nicaragua, con el miedo a sufrir un gran terremoto</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+JACOBO G. GARC�A
+</span>
+<span>
+<span>M�xico</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c49a9268e3efb6c8b458a.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>La poblaci�n pas� la noche a la intemperie ante el temor a una sacudida mayor. Denuncian oscurantismo en la informaci�n del gobierno de Ortega.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        internacional
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c0084e2704e83238b457e.html">Hijos de un error</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+IRENE HDEZ. VELASCO
+</span>
+<span>
+<span>Corresponsal</span>
+<span>Roma</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c0084e2704e83238b457e.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>En el hospital p�blico Sandro Pertini de Roma han fecundado por equivocaci�n a un mujer con los embriones de otra pareja.</p>
+</div>
+</article>
+<article class="noticia 
+        cataluna
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/cataluna/2014/04/14/534c3abeca4741964f8b457f.html">Navarro acusa a los asesores de Mas de no decir 'la verdad' sobre la permanencia en la UE</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            32">
+<a href="http://www.elmundo.es/cataluna/2014/04/14/534c3abeca4741964f8b457f.html#comentarios" title="Ver comentarios"> 32</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Sostiene que una Catalu�a independiente "quedar�a autom�ticamente fuera" de la UE</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/cataluna/2014/04/14/534bc099ca47419a4f8b4572.html">Los expertos: Catalu�a seguir�a en la UE</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/espana/2014/04/14/534ad68022601daa7b8b457c.html">'Presionaremos a los pol�ticos'</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/espana/2014/04/14/534bae87ca4741ac4f8b4570.html">Rubalcaba llevar� al Congreso la reforma de la Constituci�n</a>
+</li>
+</ul>
+</article>
+<article class="noticia 
+        madrid
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/madrid/2014/04/14/534c3746ca4741a54f8b4591.html">Fallece un beb� tras ahogarse en una piscina</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/madrid/2014/04/14/534c3746ca4741a54f8b4591.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Tras el accidente, los padres del beb� se han trasladado al puesto de la Cruz Roja en el municipio madrile�o de Estremera.</p>
+</div>
+</article>
+<article class="noticia 
+        espana
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/espana/2014/04/14/534c33b4e2704eaa238b4584.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975043335851.jpg" width="317" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/espana/2014/04/14/534c33b4e2704eaa238b4584.html">Masiva manifestaci�n a favor de la III Rep�blica</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            78">
+<a href="http://www.elmundo.es/espana/2014/04/14/534c33b4e2704eaa238b4584.html#comentarios" title="Ver comentarios"> 78</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Cayo Lara, l�der de IU, afirma que en una Rep�blica "el poder de los bancos, de los oligarcas, tiene que ser sustituido por el de los ciudadanos".</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        america
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/america/2014/04/14/534c3090e2704eab238b4583.html">La Iglesia de Uruguay pide disculpas al colectivo gay</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+DINO CAPPELLI
+</span>
+<span>
+<span>Montevideo</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            4">
+<a href="http://www.elmundo.es/america/2014/04/14/534c3090e2704eab238b4583.html#comentarios" title="Ver comentarios"> 4</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El arzobispo de Montevideo est� dispuesto a autorizar el bautismo de hijos de parejas homosexuales "si se comprometen a educarlos en la fe".</p>
+</div>
+</article>
+<article class="noticia 
+        economia
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/economia/2014/04/14/534bfd1e22601d19678b457c.html">El 44% de los sitios web de viajes en Espa�a incumple normas de la UE sobre protecci�n al consumidor</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            7">
+<a href="http://www.elmundo.es/economia/2014/04/14/534bfd1e22601d19678b457c.html#comentarios" title="Ver comentarios"> 7</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Entre las faltas m�s frecuentes est� que el precio total del servicio no se indica desde el principio e incluye por defecto suplementos opcionales.</p>
+</div>
+</article>
+<article class="noticia 
+        internacional
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c112822601d30678b457d.html">Un palestino mata a un israel� en un ataque contra una familia en Hebr�n</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+SAL EMERGUI
+</span>
+<span>
+<span>Jerusal�n</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            7">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c112822601d30678b457d.html#comentarios" title="Ver comentarios"> 7</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El atacante ha disparado contra el coche en el que iba una familia para celebrar la noche de la festividad de Pesaj. Una mujer y un ni�o han resultado heridos.</p>
+</div>
+</article>
+<article class="noticia 
+        internacional
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534c1e93e2704e8b238b457c.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974980784162.jpg" width="317" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534bf03aca4741ac4f8b457b.html">El incendio de Valpara�so contin�a muy activo</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+JORGE BARRENO
+</span>
+<span>
+<span>Especial para EL MUNDO</span>
+<span>Valpara�so</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            1">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534bf03aca4741ac4f8b457b.html#comentarios" title="Ver comentarios"> 1</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Las viviendas afectadas podr�an superar las 2.500. Las autoridades han pedido que se evacuen nuevos barrios tras la peor cat�strofe que ha vivido el pa�s andino.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/internacional/2014/04/14/534c29aa268e3edd6c8b4576.html">La 'Joya del para�so' destapa sus penurias</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        internacional
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c28f9ca47419e4f8b457f.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975009685858.jpg" width="317" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c28f9ca47419e4f8b457f.html">'Nunca les vi las caras, porque siempre tuve los ojos vendados'</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+DANIEL LOZANO
+</span>
+<span>
+<span>Caracas</span>
+<span>Especial para EL MUNDO</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            1">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c28f9ca47419e4f8b457f.html#comentarios" title="Ver comentarios"> 1</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>La liberaci�n de Nairobi PInto, la periodista de Globovisi�n secuestrada en Caracas hace una semana, no despeja las dudas en torno a su rapto.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        comunidad-valenciana
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/comunidad-valenciana/2014/04/14/534be62aca4741954f8b4586.html">El juez ordena dejar los trajes de 'G�rtel' en contenedores de ropa</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+<a href="http://www.elmundo.es/social/usuarios/rterrasa/">RODRIGO TERRASA</a>
+</span>
+<span>
+<span>Valencia</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            10">
+<a href="http://www.elmundo.es/comunidad-valenciana/2014/04/14/534be62aca4741954f8b4586.html#comentarios" title="Ver comentarios"> 10</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Por la naturaleza de los bienes, "prendas de vestir usadas", ser�a "antiecon�mico" sacarlos a subasta p�blica; se dar�n a una entidad sin �nimo de lucro.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://estaticos.elmundo.es/documentos/2014/04/14/trajes.pdf">Lea la providencia del juez</a>
+</li>
+</ul>
+</article>
+<article class="noticia 
+        internacional
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534bf1fc22601d21678b4579.html">Turqu�a planea enviar a gays y transexuales a c�rceles separadas</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+LLUIS MIQUEL HURTADO
+</span>
+<span>
+<span>ESTAMBUL</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            9">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534bf1fc22601d21678b4579.html#comentarios" title="Ver comentarios"> 9</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El ministro de Justicia turco ha anunciado un plan para aislar a estos presos del resto de reclusos para "proteger a los convictos" en las penitenciar�as.</p>
+</div>
+</article>
+<article class="noticia 
+        andalucia
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/andalucia/2014/04/14/534bfe2d268e3ee06c8b4577.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974914646386.jpg" width="317" alt="Tres de los inmigrantes rescatados en Tarifa."/>
+</a>
+<p class="pie">
+<span>Tres de los inmigrantes rescatados en Tarifa.</span>
+<span class="agencia">Efe</span>
+</p>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/andalucia/2014/04/14/534bfe2d268e3ee06c8b4577.html">Gracias a Dios tras viajar en una barca de juguete</a>
+</h1>
+</header>
+<div class="entradilla">
+<p>Once inmigrantes africanos, entre ellos una mujer, han sido trasladados al puerto de Tarifa, donde han desembarcado dando gracias al cielo por llegar vivos.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        espana
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/espana/2014/04/14/534c0e6e268e3ee36c8b457e.html">B�rcenas: �Viva el vino!</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            9">
+<a href="http://www.elmundo.es/espana/2014/04/14/534c0e6e268e3ee36c8b457e.html#comentarios" title="Ver comentarios"> 9</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El ex tesorero se qued� con 24 botellas de vino enviadas por error por el arquitecto que reform� la sede del PP y con otras 24 del tinto de 'reserva'.</p>
+</div>
+</article>
+<article class="noticia 
+        comunidad-valenciana
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/comunidad-valenciana/2014/04/14/534c20a6e2704e95238b4581.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974988671301.jpg" width="317" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/comunidad-valenciana/2014/04/14/534c20a6e2704e95238b4581.html">Tres personas fallecen en un accidente en el t�rmino alicantino de Torrevieja</a>
+</h1>
+</header>
+<div class="entradilla">
+<p>Los fallecidos son dos hombres de 52 y 37 a�os de edad, y una mujer de 32 a�os. El accidente ha tenido lugar al chocar una furgoneta y un turismo .</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        television
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/television/2014/04/14/534c1b89ca4741aa4f8b4580.html">El ex jefe de Comunicaci�n de Blair: 'El romance con Brooks fue un error'</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            1">
+<a href="http://www.elmundo.es/television/2014/04/14/534c1b89ca4741aa4f8b4580.html#comentarios" title="Ver comentarios"> 1</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Andy Coulson dice que su estrecha relaci�n con la ex consejera delegada de News International no les llev� a compartir secretos del trabajo.</p>
+</div>
+</article>
+<article class="noticia especial
+        cultura
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/especiales/2014/cultura/spiderman/cameos.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974964713611.jpg" width="317" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal centrado">
+<a href="http://www.elmundo.es/especiales/2014/cultura/spiderman/cameos.html">Los cameos de Stan Lee</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+<a href="http://www.elmundo.es/social/usuarios/virginia_hernandez/">VIRGINIA HERN�NDEZ | DANIEL IZEDDIN (v�deo)</a>
+</span>
+<span>
+</span>
+</div>
+</address>
+</footer>
+<div class="entradilla">
+<p>Como Alfred Hitchcock, el peque�o juego que proponen las adaptaciones cinematogr�ficas de Marvel es encontrar a Stan Lee en alguna escena.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/stan-lee.html">Inconfundible Stan Lee</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/el-ultimo-spiderman.html">El �ltimo Spiderman</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/trastienda.html">Trastienda</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/invasion-superpoderes.html">Fr�giles</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/universo-marvel.html">Universo Marvel</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/lee-vs-kirby.html">Lee vs. Kirby</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/grandes-hits.html">Hits</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/trepamuros.html">El trepamuros y yo</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/comiqueros-espanoles.html">Comiqueros espa�oles</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/especiales/2014/cultura/spiderman/">Especial</a>
+</li>
+</ul>
+</div>
+</article>
+<style type="text/css">.modulo-priceless{clear:both;float:left;margin-bottom:23px;background-color:#f8f8f8;border:1px solid #000000;padding:0;}.modulo-priceless .encabezado{background-color:#000000;height:45px;}.modulo-priceless .encabezado h1{float:left;color:#FFFFFF;display:inline-block;font-family:"Roboto Condensed",Arial,sans-serif;font-size:109%;font-weight:normal;line-height:135%;margin:0;padding:5px 0 5px 8px;}.modulo-priceless .encabezado .patrocinador{float:right;margin:0;height:45px;width:140px;float:right;}.modulo-priceless .encabezado .patrocinador img{width:145px;}.modulo-priceless .foto .cubre_reproductor{background:url("http://estaticos.elmundo.es/elmundo/iconos/v4.x/v4.02/play.png") no-repeat scroll right bottom transparent;height:31px;}.modulo-priceless .texto-modulo h4.titular{padding:2px 10px 0 10px;}.modulo-priceless .texto-modulo p.firma{font-size:75%;font-family:"Roboto Condensed",Arial,sans-serif;font-weight:400;text-transform:uppercase;margin-bottom:12px;}.modulo-priceless .texto-modulo p.entradilla{font-size:82%;}.modulo-priceless p,.modulo-priceless h4{clear:both;float:left;padding-left:10px;padding-right:10px;margin-bottom:12px;}</style>
+<div class="noticia modulo-priceless">
+<div class="encabezado">
+<h1>Madrid no tiene Precio</h1>
+<div class="patrocinador"><img src="//estaticos04.elmundo.es/includes_redaccion/genericos/patrocinios/img/mc-priceless.png"></div>
+</div>
+<div class="foto"><a href="http://madridnotieneprecio.elmundo.es/news/post/yo-soy-divergente/"> <img src="//estaticos01.elmundo.es/elmundo/imagenes/2014/04/14/minirecomendados_priceless/1372752370_extras_noticia_foton_1_0.jpg" border="0" width="317" height="178" alt="[foto de la noticia]"/> 
+</a>
+<div class="cubre_reproductor"></div>
+</div>
+<div class="texto-modulo">
+<h4 class="titular"><a href="http://madridnotieneprecio.elmundo.es/news/post/yo-soy-divergente/">Divergente, el nuevo fen�meno de masas</a></h4>
+<p class="firma">Silvia Gonz�lez Cerredelo</p>
+<p class="entradilla">Es la nueva saga literaria del momento. Interpretada por Theo James y Shailene Woodley promete ser el taquillazo de esta primavera. �Quieres ser el primero en conocerles?</p>
+</div>
+</div> 
+</div>
+</div>
+<div class="col col-6">
+<section class="primer-plano">
+<h1>Primer Plano</h1>
+<div class="bloque fijo-100 nthchild envuelve-fijo" data-col="6" data-nthchild="1">
+<article class="noticia 
+        internacional
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534c3fdd268e3ef56c8b4589.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534c3fdd268e3ef56c8b4589.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975062405922.jpg" width="465" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="title-180">
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534c3fdd268e3ef56c8b4589.html">El Papa que inspira al 'pop art'</a>
+</h1>
+</header>
+<div class="entradilla">
+<p>Un dibujo del pont�fice montando en bicicleta es la �ltima obra callejera inspirada en la figura del Papa, pero no la �nica. Adem�s de grafitis, Francisco tambi�n ha protagonizado portadas de revistas como Rolling Stones o Time.</p>
+</div>
+<ul class="apoyos">
+</ul>
+</div>
+</article>
+</div>
+</section>
+<div class="col col-2">
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia 
+        cultura
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/cultura/2014/04/15/534c6391e2704ea0238b4578.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/15/13975178255971.jpg" width="147" alt="Fotograma de &apos;Skyfall&apos;."/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/cultura.html">CULTURA</a>
+</span>
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/cultura/2014/04/15/534c6391e2704ea0238b4578.html">Guerra de estudios por James Bond</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+PABLO SCARPELLINI
+</span>
+<span>
+<span>Los �ngeles</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/cultura/2014/04/15/534c6391e2704ea0238b4578.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>MGM presenta una demanda contra Universal por 'Section 6', una historia sobre un agente brit�nico con muchas similitudes con el 007 de Ian Fleming.</p>
+</div>
+</div>
+</article>
+<article class="noticia blog 
+        blogs
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/blogs/elmundo/rockandblog/2014/04/15/pippermint-twist-24-joyas-del-primer-pop.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/15/13975206920481.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+ROCK & BLOG
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/blogs/elmundo/rockandblog/2014/04/15/pippermint-twist-24-joyas-del-primer-pop.html">'Pippermint twist', 24 joyas del primer pop espa�ol</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+Quico Alsedo
+</span>
+<span>
+</span>
+</div>
+</address>
+</footer>
+<div class="entradilla">
+<p>Este disco rescata 24 joyas ocultas, la mayor parte de ellas caras B, de otros tantos pioneros del embrionario pop espa�ol de 1958 a 1966.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        cultura
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/cultura/2014/04/15/534c6415268e3eee6c8b4584.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/15/13975169953763.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/cultura.html">LITERATURA</a>
+</span>
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/cultura/2014/04/15/534c6415268e3eee6c8b4584.html">Muere el escritor Albert Manent</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/cultura/2014/04/15/534c6415268e3eee6c8b4584.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El escritor, historiador, cr�tico literario y activista cultural, que en 2011 obtuvo el 43 Premio de Honor de las Letras Catalanas, ha fallecido a los 83 a�os.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        television
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/television/2014/04/15/534c72b8268e3e196d8b457c.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/15/13975194335905.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/television.html">TELEVISI�N</a>
+</span>
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/television/2014/04/15/534c72b8268e3e196d8b457c.html">'Mad Men' se desinfla en su �ltima temporada</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+PABLO SCARPELLINI
+</span>
+<span>
+<span>Los �ngeles</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/television/2014/04/15/534c72b8268e3e196d8b457c.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El primer cap�tulo de la s�ptima temporada registr� 2,3 millones de espectadores, 1,1 millones menos que la etapa anterior.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        ciencia
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/ciencia/2014/04/14/534bfaf622601d19678b4578.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975062247232.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/ciencia.html">CIENCIA</a>
+</span>
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/ciencia/2014/04/14/534bfaf622601d19678b4578.html">Yo a Marte y t� a la Luna</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+<a href="http://www.elmundo.es/social/usuarios/teresaguerrerof/">TERESA GUERRERO</a>
+</span>
+<span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            8">
+<a href="http://www.elmundo.es/ciencia/2014/04/14/534bfaf622601d19678b4578.html#comentarios" title="Ver comentarios"> 8</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Mientras China presenta el veh�culo con el que sus taikonautas explorar�n la Luna, el director de la NASA reitera la intenci�n de EEUU de llegar a Marte en la d�cada de 2030.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/especiales/2009/07/ciencia/llegada_hombre_luna_1969/index.html">Especial: el hombre llega a la Luna</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/elmundo/2013/04/10/ciencia/1365621093.html">La NASA quiere atrapar y acercar un asteroide</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        internacional
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c0b33e2704e83238b4584.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974977194664.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/internacional.html">EEUU</a>
+</span>
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c0b33e2704e83238b4584.html">Condenado a exhibir en p�blico su condici�n de acosador</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            4">
+<a href="http://www.elmundo.es/internacional/2014/04/14/534c0b33e2704e83238b4584.html#comentarios" title="Ver comentarios"> 4</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Un juez de Ohio obliga a un hombre a mostrar durante cinco horas en la calle un cartel donde pod�a leerse: "Soy un abus�n y hago 'bullying' a ni�os discapacitados".</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        ciencia
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/ciencia/2014/04/14/534b9fece2704e88238b456e.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975016035734.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/ciencia.html">CIENCIA</a>
+</span>
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/ciencia/2014/04/14/534b9fece2704e88238b456e.html">Un eclipse total da comienzo a las 'cuatro lunas de sangre'</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            8">
+<a href="http://www.elmundo.es/ciencia/2014/04/14/534b9fece2704e88238b456e.html#comentarios" title="Ver comentarios"> 8</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Ma�ana tendr� lugar un eclipse total de Luna que podr� verse desde las Islas Canarias desde las 6:53 (hora peninsular). Tras diez a�os vuelve a darse este fen�meno, llamado 'cuatro lunas de sangre'.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        salud
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/salud/2014/04/14/534be6a122601d2b678b4576.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975010093431.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/salud.html">SALUD</a>
+</span>
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/salud/2014/04/14/534be6a122601d2b678b4576.html">Favorecer el uso de la bicicleta en las ciudades podr�a evitar unas 10.000 muertes en la UE</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            20">
+<a href="http://www.elmundo.es/salud/2014/04/14/534be6a122601d2b678b4576.html#comentarios" title="Ver comentarios"> 20</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El uso de la bicicleta reducir�a el n�mero de accidentes de tr�fico y la contaminaci�n.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/salud/2014/03/25/53308199e2704e230e8b4582.html">Muertes por la contaminaci�n</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/salud/2013/12/09/52a0d1f763fd3d9d498b4574.html">Resta a�os de vida</a>
+</li>
+<li data-inline="true">
+<a class href="http://www.elmundo.es/elmundosalud/2007/09/12/corazon/1189621429.html">En las arterias</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/elmundosalud/2010/06/28/corazon/1277745979.html">El beneficio de ir al trabajo en bicicleta</a>
+</li>
+</ul>
+</div>
+</article>
+<div id="portada_p_147x400bcen" class="publicidad publicidad-147">
+<!-- CrawlerB. -->
+</div>
+<article class="noticia especial
+        tendencias
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/tendencias/2014/04/14/534350e4e2704ee1648b4585.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974547119044.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/tendencias/2014/04/14/534350e4e2704ee1648b4585.html">Columbus, un sabroso 'descubrimiento'</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+CARLOS GARC�S
+</span>
+<span>
+<span>Madrid</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/tendencias/2014/04/14/534350e4e2704ee1648b4585.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El chef Mario Sandoval nos gu�a por el nuevo restaurante que ha abierto junto a sus hermanos en la capital. Una apuesta por la fusi�n de ingredientes.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/album/tendencias/2014/04/14/5344b4b2e2704ec0548b4569.html">FOTOS: Un paseo por Columbus</a>
+</li>
+</ul>
+</div>
+</article>
+</div>
+<section class="ocholeguas">
+<h1><a href=http://www.ocholeguas.com/index.html>Ocholeguas.com</a></h1>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia 
+        cultura
+        ">
+<div class="foto">
+<a href="http://www.ocholeguas.com/2014/04/09/europa/1397036245.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975117123047.jpg" width="125" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal centrado">
+<a href="http://www.ocholeguas.com/2014/04/09/europa/1397036245.html">La ruta de las Michelin</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+ISABEL GARC�A
+</span>
+<span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/cultura/2014/04/14/534c5622268e3e0c6d8b457b.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+</div>
+</article>
+</div>
+</section>
+<section class="metropoli">
+<h1><a href=http://www.metropoli.com>Metr�poli</a></h1>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia 
+        cultura
+        ">
+<div class="foto">
+<a href="http://www.metropoli.com/musica/2014/04/14/5346be0dca4741114d8b4570.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974844488835.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.metropoli.com/musica/2014/04/14/5346be0dca4741114d8b4570.html">Los discos de la semana</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/cultura/2014/04/14/534bea6bca4741c74f8b4579.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Cr�tica de los nuevos trabajos de S�ber, Shakira, Black Lips, Polock, Joana Serrat...</p>
+</div>
+</div>
+</article>
+</div>
+</section>
+<section class="happyfm">
+<h1><a href=http://www.elmundo.es/happy-fm.html>Happy FM</a> </h1>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia 
+        cultura
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/happy-fm/2014/04/11/5347c433268e3e821f8b4571.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/12/13973041931525.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/happy-fm/2014/04/11/5347c433268e3e821f8b4571.html">Fuera de control</a>
+</h1>
+</header>
+</div>
+</article>
+</div>
+</section>
+<div class="bloque repotaje fijo-100 nthchild" data-col="2" data-nthchild="1">
+<section class="blogs">
+<h1><a href="http://www.elmundo.es/blogs/elmundo/">Los blogs</a></h1>
+<article class="noticia">
+<header>
+<p class="antetitulo">
+<span>
+<a href="http://www.elmundo.es/blogs/elmundo/rockandblog">Sexo, drogas y Rock & Blog</a>
+</span>
+</p>
+<h1><a href="http://www.elmundo.es/blogs/elmundo/rockandblog/2014/04/15/pippermint-twist-24-joyas-del-primer-pop.html">'Pippermint twist', 24 joyas del primer pop espa�ol</a></h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>Quico Alsedo</span>
+</div>
+</address>
+<time>
+<span class="fecha">15/04/2014</span>
+<span class="hora">01:57 horas</span>
+</time>
+</footer>
+</article>
+<article class="noticia">
+<header>
+<p class="antetitulo">
+<span>
+<a href="http://www.elmundo.es/blogs/elmundo/1714-diario-del-ano-de-la-peste">1714: Diario del a�o de la peste</a>
+</span>
+</p>
+<h1><a href="http://www.elmundo.es/blogs/elmundo/1714-diario-del-ano-de-la-peste/2014/04/14/las-noticias-de-la-pestilencia-y-su.html">Las noticias de la Pestilencia y su lugar</a></h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>Arcadi Espada</span>
+</div>
+</address>
+<time>
+<span class="fecha">14/04/2014</span>
+<span class="hora">17:14 horas</span>
+</time>
+</footer>
+</article>
+<article class="noticia">
+<header>
+<p class="antetitulo">
+<span>
+<a href="http://www.elmundo.es/blogs/elmundo/asesinoenserie">Asesino en serie</a>
+</span>
+</p>
+<h1><a href="http://www.elmundo.es/blogs/elmundo/asesinoenserie/2014/04/14/el-dia-d-a-la-hora-d.html">El d�a D, a la hora D</a></h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>Alberto Rey</span>
+</div>
+</address>
+<time>
+<span class="fecha">14/04/2014</span>
+<span class="hora">15:44 horas</span>
+</time>
+</footer>
+</article>
+<article class="noticia">
+<header>
+<p class="antetitulo">
+<span>
+<a href="http://www.elmundo.es/blogs/elmundo/escorpion">El escorpi�n</a>
+</span>
+</p>
+<h1><a href="http://www.elmundo.es/blogs/elmundo/escorpion/2014/04/14/el-nucleo-de-la-alegria.html">El n�cleo de la alegr�a</a></h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>Alejandro G�ndara</span>
+</div>
+</address>
+<time>
+<span class="fecha">14/04/2014</span>
+<span class="hora">12:19 horas</span>
+</time>
+</footer>
+</article>
+<article class="noticia">
+<header>
+<p class="antetitulo">
+<span>
+<a href="http://www.elmundo.es/blogs/elmundo/dragolandia">Dragolandia</a>
+</span>
+</p>
+<h1><a href="http://www.elmundo.es/blogs/elmundo/dragolandia/2014/04/14/la-primavera-la-sangre-altera.html">La primavera la sangre altera</a></h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>Fernando S�nchez Drag�</span>
+</div>
+</address>
+<time>
+<span class="fecha">14/04/2014</span>
+<span class="hora">11:54 horas</span>
+</time>
+</footer>
+</article>
+</section>
+</div>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<div id="portada_p_147x300ccen" class="publicidad publicidad-147">
+<!-- CrawlerB. -->
+</div>
+</div>
+<section class="encuentros">
+<h1>Encuentros</h1>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia 
+        television
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/elmundo/encuentros/invitados/2014/04/14/christian-galvez/index.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974811685264.jpg" width="147" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/elmundo/encuentros/invitados/2014/04/14/christian-galvez/index.html">Christian G�lvez</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/television/2014/04/14/534b337b22601da47b8b456e.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+</div>
+</article>
+</div>
+</section>
+</div>
+<div class="col col-4">
+<div class="bloque fijo-100 nthchild" data-col="4" data-nthchild="1">
+<div id="portada_p_300" class="publicidad publicidad-300">
+<!-- CrawlerB. -->
+</div>
+</div>
+<div class="bloque opinion nthchild" data-col="4" data-flexible="1">
+<div id="portada_p_300x100" class="publicidad publicidad-300">
+<!-- CrawlerB. -->
+</div>
+</div>
+<section class="deportes">
+<h1><a href=http://www.elmundo.es/deportes.html>Deportes</a></h1>
+<div class="bloque fijo-100 envuelve-fijo nthchild" data-col="4" data-nthchild="1">
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c49c422601d42678b457e.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/15/13975153446868.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="title-160 izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c49c422601d42678b457e.html">La pieza suelta de Ancelotti</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+JAIME RODR�GUEZ
+</span>
+<span>
+<span>Madrid</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            1">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c49c422601d42678b457e.html#comentarios" title="Ver comentarios"> 1</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Isco e Illarra se juegan la plaza de Cristiano en la final de Copa. El t�cnico 'ha cuidado' al vasco tras el apag�n de Dortmund y piensa en �l para frenar a la medular azulgrana. El mediapunta, revulsivo.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/deportes/2014/04/14/534afa06e2704eac3c8b456f.html">Entrevista a Ancelotti: 'Sin Cristiano, el sistema no cambiar�'</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/deportes/2014/04/14/534c217cca4741bd4f8b458a.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/deportes/2014/04/14/534c217cca4741bd4f8b458a.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975007865188.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal">
+<a href="http://www.elmundo.es/album/deportes/2014/04/14/534c217cca4741bd4f8b458a.html">Todas las finales Madrid-Bar�a</a>
+</h1>
+</header>
+<div class="entradilla">
+<p>Este mi�rcoles (21.30 h.) en Mestalla se jugar� la s�ptima final de Copa entre los dos grandes con un balance de tres victorias cada uno.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/album/comunidad-valenciana/2014/04/14/534c219f22601d45678b4582_8.html">�lbum: Cuenta atr�s en Mestalla</a>
+</li>
+</ul>
+</div>
+</article>
+<section class="debates">
+<h1>Debate</h1>
+<form id="datos-votacion-3836">
+<input type="hidden" name="numPreguntasTotalDebate" id="numPreguntasTotalDebate_3836" value="1"/>
+<input type="hidden" name="anio_debate_3836" id="anio_debate_3836" value="2014"/>
+<input type="hidden" name="mes_debate_3836" id="mes_debate_3836" value="04"/>
+<fieldset>
+<legend>�Qui�n ganar� la Copa?</legend>
+<ul>
+<li>
+<input type="radio" id="respuesta_534c282fca4741c14f8b458d" value="534c282fca4741c14f8b458c,534c282fca4741c14f8b458d" name="pregunta_534c282fca4741c14f8b458c"/>
+<label for="respuesta_534c282fca4741c14f8b458d">
+FC Barcelona
+</label>
+</li>
+<li>
+<input type="radio" id="respuesta_534c282fca4741c14f8b458e" value="534c282fca4741c14f8b458c,534c282fca4741c14f8b458e" name="pregunta_534c282fca4741c14f8b458c"/>
+<label for="respuesta_534c282fca4741c14f8b458e">
+Real Madrid
+</label>
+</li>
+</ul>
+</fieldset>
+<div id="error-messages-tag-3836"></div>
+<input type="button" value="Votar" id="enviar-votacion-3836" name="enviar-votacion">
+</form>
+<a href="http://www.elmundo.es/debate/deportes/2014/04/14/534c282fca4741c14f8b458b_results.html" class="enlace-interno">Ver los resultados</a>
+<script>
+          var debate_3836 = new ueDebate({
+              url: "http://www.elmundo.es/encuestas/servicio/votar_encuesta.html",
+              site: "elmundo",
+              oracleId: 3836,
+              formId: "datos-votacion-3836",
+              btEnviar: "enviar-votacion-3836",
+              errorId: "error-messages-tag-3836",
+              redirect: "http://www.elmundo.es/debate/deportes/2014/04/14/534c282fca4741c14f8b458b_results.html"
+          });
+    </script>
+</section>
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534bc435e2704eaf238b4570.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974753946235.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534bc435e2704eaf238b4570.html">'Si ganamos la Copa, cambiar�amos las cosas'</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+ANDR�S CORPAS
+</span>
+<span>
+<span>Barcelona</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            13">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534bc435e2704eaf238b4570.html#comentarios" title="Ver comentarios"> 13</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Carles Puyol, capit�n del Barcelona, da la cara tras la mala semana del equipo azulgrana.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/deportes/2014/04/14/534b0649268e3eea6d8b457a.html">El esp�ritu de N��ez, por Enric Gonz�lez</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5d28268e3e146d8b4585.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/15/13975136649559.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5d28268e3e146d8b4585.html">Aduriz hincha el acorde�n</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+JON RIVAS
+</span>
+<span>
+<span>Bilbao</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            1">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5d28268e3e146d8b4585.html#comentarios" title="Ver comentarios"> 1</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El Athletic no cede a la presi�n, golea al M�laga (3-0), con doblete de Aduriz, y mantiene seis puntos de renta con el Sevilla, quinto.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/elmundodeporte/futbol/liga-primera/clasificacion.html">Primera: Resultados, cr�nicas y clasificaci�n</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5a5ee2704e82238b458a.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/15/13975154641691.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5a5ee2704e82238b458a.html">Spanoulis, la pesadilla recurrente</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+<a href="http://www.elmundo.es/social/usuarios/lucas_saez/">LUCAS S�EZ-BRAVO</a>
+</span>
+<span>
+<span>Madrid</span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5a5ee2704e82238b458a.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>La estrella del Olympiacos, verdugo en la pasada final, amenaza al Madrid en la serie de cuartos de final de la Eurolia que arranca hoy.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/deportes/2014/04/14/534be214e2704e7d238b4579.html">La revancha de Pablo Laso</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/elmundodeporte/envivos/baloncesto/2013/euroliga/envivos/partido_03_01_06210_07400.html">Real Madrid-Olympiacos (C+, 21.00 h)</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/elmundodeporte/envivos/baloncesto/2013/euroliga/envivos/partido_03_01_06216_08607.html">Barcelona-Galatasaray (19.00 h.)</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia opinion 
+    deportes
+    ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5b1e268e3e146d8b4581.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/15/13975156479984.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5b1e268e3e146d8b4581.html">Mattiacci, �apuesta sorpresa u hombre de transici�n?</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+SERGIO PICCIONE
+</span>
+<span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/deportes/2014/04/15/534c5b1e268e3e146d8b4581.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El nuevo director deportivo de Ferrari, relevo de Stefano Domenicali, es un brillante hombre del marketing y las ventas.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/deportes/2014/04/14/534ba7ef22601d45678b456e.html">Ferrari releva a su director</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/deportes/2014/04/14/534bce65e2704e7f238b4579.html">Stefano Domenicali, un director 'maldito'</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/debate/deportes/2014/04/14/534bb90f22601d33678b4572.html">�Mejorar� Ferrari con la marcha de Domenicali?</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/deportes/formula-1.html">Todo sobre el Mundial de F1</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c12bfca4741b84f8b457c.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974952584883.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c12bfca4741b84f8b457c.html">Phelps, el regreso del tibur�n</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+<a href="http://www.elmundo.es/social/usuarios/andrescorpas/">ANDR�S CORPAS</a>
+</span>
+<span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            1">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c12bfca4741b84f8b457c.html#comentarios" title="Ver comentarios"> 1</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El deportista ol�mpico m�s laureado de la historia (22 medallas), retirado tras los Juegos de Londres 2012, participar� en una reuni�n en Arizona del 24 al 26 de abril.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c4d8dca47419a4f8b4585.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975100206741.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c4d8dca47419a4f8b4585.html">La Juve, otro paso m�s cerca</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            1">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c4d8dca47419a4f8b4585.html#comentarios" title="Ver comentarios"> 1</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Gana 0-2 al Udinese a medio gas y mantiene la distancia de 8 puntos con la Roma. Llorente jug� de titular y anot� el segundo gol de los juventinos.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/elmundodeporte/futbol/liga-italiana/clasificacion.html">Italia: Resultados y clasificaci�n</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/deportes/2014/04/14/534bfb9eca47419f4f8b4583.html">Sebastian Rode, nuevo jugador del Bayern</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c0bdbca4741c44f8b4585.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974934261787.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c0bdbca4741c44f8b4585.html">El 'nuevo' Calder�n de siempre</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+ANDR�S ARAG�N
+</span>
+<span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            1">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c0bdbca4741c44f8b4585.html#comentarios" title="Ver comentarios"> 1</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El base disputar� los 'playoffs' por primera vez desde 2008. Se ha adaptado muy bien a Dallas. Tiene menos bal�n, pero mantiene su eficacia.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/deportes/2014/04/14/534bbd5f268e3e176d8b4571.html">Marc, como 'el Cholo, partido a partido'</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/deportes/2014/04/14/534b8d6022601d09678b456c.html">Lakers, 'muy interesados' en retener a Pau</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/deportes/baloncesto/nba.html">Consulte la informaci�n de la NBA</a>
+</li>
+</ul>
+</div>
+</article>
+<article class="noticia 
+        deportes
+        ">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c225dca4741a64f8b457f.html">Monta��s-Djokovic, en segunda ronda de Montercarlo</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c225dca4741a64f8b457f.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Pleno espa�ol en primera ronda: Robredo, Monta��s, And�jar, Albert Ramos y Bautista Agut ya est�n en la siguiente fase.</p>
+</div>
+</article>
+<article class="noticia 
+        deportes
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c1ae9ca4741bf4f8b4583.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974973953111.jpg" width="295" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c1ae9ca4741bf4f8b4583.html">La discusi�n, en los despachos</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+JAVIER S�NCHEZ
+</span>
+<span>
+</span>
+</div>
+</address>
+<div class="comentarios" content="UserComments:                                            3">
+<a href="http://www.elmundo.es/deportes/2014/04/14/534c1ae9ca4741bf4f8b4583.html#comentarios" title="Ver comentarios"> 3</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>Los cuatro pilotos cabeceros de MotoGP acaban contrato este a�o y una posible marcha de Jorge Lorenzo a Honda sobrevuela el campeonato.</p>
+</div>
+<ul class="apoyos">
+<li>
+<a class href="http://www.elmundo.es/blogs/deportes/en-la-pole/2014/04/14/la-tension-atenaza-a-lorenzo.html">La tensi�n atenaza a Lorenzo, por E.Isardo</a>
+</li>
+<li>
+<a class href="http://www.elmundo.es/deportes/motociclismo.html">Mundial: Clasificaciones, noticias, tiempos</a>
+</li>
+</ul>
+</div>
+</article>
+</div>
+</section>
+<div class="bloque fijo-100 nthchild" data-col="4" data-nthchild="1">
+<article class="noticia especial
+        internacional
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534c132222601d25678b4573.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534c132222601d25678b4573.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974947233838.jpg" width="317" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal">
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534c132222601d25678b4573.html">Conejos a la carrera</a>
+</h1>
+</header>
+<div class="entradilla">
+<p>Miles de turistas llegan a Praga atra�dos por curiosas tradiciones como la carrera de obst�culos de Conejos de Pascua.</p>
+</div>
+<ul class="apoyos">
+</ul>
+</div>
+</article>
+<div id="portada_p_300b" class="publicidad publicidad-300">
+<!-- CrawlerB. -->
+</div>
+<div class="noticia-bt-expansion" id="noticia-bt-expansion">
+<a href="http://www.expansion.com/?cid=SIN8901" class="logo-medios" rel="nofollow" title="Expansion.com"><img src="http://estaticos.expansion.com/iconos/bt/logo_expansion.png" alt="Expansion.com" height="24" width="124"></a>
+<a href="http://www.expansion.com/2014/04/14/empresas/digitech/1397502339.html?cid=SIN8901" rel="nofollow" title="Google Glass, hoy a la venta en EEUU por 1.500 d�lares"><img class="foto" src="http://estaticos.expansion.com/imagenes/2014/04/14/behavioral_elmundo/1388261869_1.jpg" title="Google Glass, hoy a la venta en EEUU por 1.500 d�lares" alt="Google Glass, hoy a la venta en EEUU por 1.500 d�lares" width="300" height="160"></a>
+<p class="antetitulo">DIGITECH</p>
+<h2>
+<a href="http://www.expansion.com/2014/04/14/empresas/digitech/1397502339.html?cid=SIN8901" rel="nofollow" title="Google Glass, hoy a la venta en EEUU por 1.500 d�lares">Google Glass, hoy a la venta en EEUU por 1.500 d�lares</a>
+</h2>
+<p>Caro, exclusivo y limitado. Google quiere encontrar en esta f�rmula el secreto del �xito para la venta de sus Google Glass, un dispositivo con altas cotas de popularidad pese a que no saldr� hasta hoy a la venta.</p>
+</div>
+<div class="noticia-bt-marca" id="noticia-bt-marca">
+<a href="http://www.marca.com/?cid=SIN13703" class="logo-medios" rel="nofollow" title="Marca.com">
+<img src="http://estaticos.marca.com/iconos/bt/logo_marca.png" alt="Marca.com" height="24" width="107">
+</a>
+<a href="http://www.marca.com/2014/04/14/multimedia/graficos/1397485572.html?cid=SIN13703" rel="nofollow" title="Historia de las equipaciones del Bar�a y el Madrid"><img class="foto" src="http://estaticos.marca.com/imagenes/2014/04/15/behavioral_elmundo/1343771801_1.jpg" title="Historia de las equipaciones del Bar�a y el Madrid" alt="Historia de las equipaciones del Bar�a y el Madrid" width="300" height="160"/></a>
+<p class="antetitulo">FINAL DE COPA DEL REY</p>
+<h2>
+<a href="http://www.marca.com/2014/04/14/multimedia/graficos/1397485572.html?cid=SIN13703" rel="nofollow" title="Historia de las equipaciones del Bar�a y el Madrid">Historia de las equipaciones del Bar�a y el Madrid</a>
+</h2>
+<p>Un viaje en el tiempo a lo largo de las camisetas hist�ricas del Barcelona y del Real Madrid. Modas, tendencias, tecnolog�a, patrocinadores; todo queda reflejado en sus vestimentas.</p>
+</div>
+<div id="portada_p_300d" class="publicidad publicidad-300">
+<!-- CrawlerB. -->
+</div>
+<div id="portada_p_300c" class="publicidad publicidad-300">
+<!-- CrawlerB. -->
+</div>
+</div>
+</div>
+</div>
+<div class="col col-10">
+<section class="yodona">
+<h1><a href=http://www.yodona.com/>Yo Dona</a></h1>
+<div class="bloque fijo-100 nthchild" data-col="10" data-nthchild="1">
+<ul class="en-linea">
+<li><a href="http://www.elmundo.es/yodona/moda.html">Moda</a></li>
+<li><a href="http://www.elmundo.es/yodona/belleza.html">Belleza</a></li>
+<li><a href="http://www.elmundo.es/yodona/lifestyle.html">Lifestyle</a></li>
+<li><a href="http://www.elmundo.es/yodona/parejas.html">Parejas</a></li>
+</ul>
+</div>
+<div class="bloque fijo-100 ntchild envuelve-fijo" data-col="10" data-nthchild="1">
+<article class="noticia 
+        yodona
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534c2362268e3edc6c8b4579.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534c2362268e3edc6c8b4579.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974991927212.jpg" width="253" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/yodona.html">NOVIAS</a>
+</span>
+Tendencias
+</p>
+<h1 class="title-140">
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534c2362268e3edc6c8b4579.html">Las flores no son solo para el ramo</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+<a href="http://www.zankyou.com/es">ANA RIAZA para Zankyou bodas</a>
+</span>
+<span>
+</span>
+</div>
+</address>
+</footer>
+<div class="entradilla">
+<p>�Qui�n dijo que las flores eran s�lo para el ramo? El bouquet de la novia tiene un protagonismo especial, que comparte con un buen mont�n de motivos florales en la decoraci�n de la boda.</p>
+</div>
+<ul class="apoyos">
+</ul>
+</div>
+</article>
+</div>
+<div class="bloque fijo-100 ntchild envuelve-fijo" data-col="10" data-nthchild="1">
+<article class="noticia 
+        yodona
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534b9628ca4741aa4f8b456f.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534b9628ca4741aa4f8b456f.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974705463760.jpg" width="253" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/yodona.html">MODA</a>
+</span>
+Estilo
+</p>
+<h1 class="title-120">
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534b9628ca4741aa4f8b456f.html">Los nueve 'looks' triunfadores de la duquesa de Cambridge</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+N. HERMOSIN
+</span>
+<span>
+</span>
+</div>
+</address>
+</footer>
+<div class="entradilla">
+<p>�Qu� firmas visten a Kate Middleton? Desde una americana de Zara a unas zapatillas de Mint Velvet, lo que toca se convierte en oro. Recopilamos sus 'e-shop'.</p>
+</div>
+<ul class="apoyos">
+</ul>
+</div>
+</article>
+<article class="noticia 
+        yodona
+        ">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/yodona.html">MODA</a>
+</span>
+</p>
+<h1 class="title-120 izquierda">
+<a href="http://www.elmundo.es/yodona/2014/04/14/534ba42522601d3c678b456f.html">In�s-Loan Rau, el sensual 's�' a la diversidad sexual en la moda</a>
+</h1>
+</header>
+<div class="entradilla con-foto">
+<div class="foto lateral">
+<a href="http://www.elmundo.es/yodona/2014/04/14/534ba42522601d3c678b456f.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974995204954.jpg" width="147" alt/>
+</a>
+</div>
+<p>Modelos que cuentan su historia, campa�as publicitarias... la moda enarbola la bandera trans.</p>
+</div>
+</article>
+</div>
+<div class="bloque fijo-100 ntchild envuelve-fijo" data-col="10" data-nthchild="1">
+<article class="noticia 
+        yodona
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534ba34ce2704e8b238b456f.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534ba34ce2704e8b238b456f.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974701323756.jpg" width="253" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/yodona.html">MODA</a>
+</span>
+</p>
+<h1 class="title-140">
+<a href="http://www.elmundo.es/album/yodona/2014/04/14/534ba34ce2704e8b238b456f.html">�La �ltima moda en Coachella? Lucir pierna</a>
+</h1>
+</header>
+<footer>
+<address>
+<div class="firma">
+<span>
+PATRICIA RIVERA
+</span>
+<span>
+</span>
+</div>
+</address>
+</footer>
+<div class="entradilla">
+<p>Coachella se convierte en un escaparate de moda, donde ense�ar es la m�xima. 'Shorts', minivestidos, 'crop tops' y transparencias reinan en los estilismos festivaleros.</p>
+</div>
+<ul class="apoyos">
+</ul>
+</div>
+</article>
+</div>
+</section>
+<section class="loc">
+<h1><a href=http://www.elmundo.es/loc.html>LOC</a></h1>
+<div class="bloque fijo-100 ntchild envuelve-fijo" data-col="10" data-nthchild="1">
+<article class="noticia especial
+        loc
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/loc/2014/04/14/534c0799ca47419b4f8b4579.html">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974927368550.jpg" width="317" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/loc.html">HOLLYWOOD</a>
+</span>
+Guerra familiar
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/loc/2014/04/14/534c0799ca47419b4f8b4579.html">Los hijos de Mickey Rooney, contra su testamento</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/loc/2014/04/14/534c0799ca47419b4f8b4579.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+<div class="entradilla">
+<p>El actor dej� todo al hijastro que lo cuidaba. Aunque muri� sin blanca, la verdadera fortuna ser�an sus royalties y remanentes.</p>
+</div>
+</div>
+</article>
+<article class="noticia 
+        loc
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/loc/2014/04/14/534bcd1fe2704e82238b4570.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974927919970.jpg" width="317" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/loc.html">FALLECIMIENTO</a>
+</span>
+Proyectos internacionales
+</p>
+<h1 class="normal izquierda">
+<a href="http://www.elmundo.es/loc/2014/04/14/534bcd1fe2704e82238b4570.html">Los planes truncados de Peaches Geldof</a>
+</h1>
+</header>
+<footer>
+<div class="comentarios" content="UserComments:                                            0">
+<a href="http://www.elmundo.es/loc/2014/04/14/534bcd1fe2704e82238b4570.html#comentarios" title="Ver comentarios"> 0</a>
+</div>
+</footer>
+</div>
+</article>
+</div>
+<div class="bloque fijo-100 ntchild envuelve-fijo" data-col="10" data-nthchild="1">
+<article class="noticia 
+        loc
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bcfe5e2704eb5238b4570.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bcfe5e2704eb5238b4570.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974901394009.jpg" width="445" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/loc.html">SEMANA SANTA</a>
+</span>
+Fervor religioso
+</p>
+<h1 class="title-260">
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bcfe5e2704eb5238b4570.html">Famosos, devotos e incluso costaleros</a>
+</h1>
+</header>
+<div class="entradilla">
+<p>�Qu� les gusta a muchas de nuestras celebridades la Semana Santa! Les sirve para expiar sus pecados, pero tambi�n para acaparar la atenci�n. No hay nada m�s folcl�rico que romper a llorar delante de un paso.</p>
+</div>
+<ul class="apoyos">
+</ul>
+</div>
+</article>
+<article class="noticia 
+        loc
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bcbfce2704e9e238b4572.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bcbfce2704e9e238b4572.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974816178631.jpg" width="445" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<p class="antetitulo">
+<span>
+<a href="/loc.html">FOTOGRAF�AS</a>
+</span>
+</p>
+<h1 class="normal">
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bcbfce2704e9e238b4572.html">Los besos de pel�cula de las estrellas</a>
+</h1>
+</header>
+<div class="entradilla">
+<p>El pasado domingo se celebr� el D�a Internacional del Beso, un motivo perfecto para recordar algunos de los �sculos m�s memorables protagonizados por nuestras 'celebrities'.</p>
+</div>
+<ul class="apoyos">
+</ul>
+</div>
+</article>
+<article class="noticia especial
+        loc
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bad09e2704e83238b456d.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bad09e2704e83238b456d.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975000735893.jpg" width="445" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal">
+<a href="http://www.elmundo.es/album/loc/2014/04/14/534bad09e2704e83238b456d.html">La 'tableta' de Zac y m�s...</a>
+</h1>
+</header>
+<ul class="apoyos">
+</ul>
+</div>
+</article>
+</div>
+</section>
+</div>
+</div>
+<div class="col col-2">
+<aside>
+<section class="periodico">
+<h1>15 de abril</h1>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia 
+        espana
+        ">
+<div class="foto">
+<a href="http://estaticos.elmundo.es/documentos/2014/04/15/portada.pdf">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/14/13975115715355.jpg" width="127" alt/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal centrado">
+<a href="http://estaticos.elmundo.es/documentos/2014/04/15/portada.pdf">Consulte la portada</a>
+</h1>
+</header>
+</div>
+</article>
+</div>
+</section>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<div id="portada_p_147x30dcha" class="publicidad publicidad-147">
+<!-- CrawlerB. -->
+</div>
+<section class="el-tiempo" role="region">
+<h1><a title="Ir a El tiempo" alt="Ir a El tiempo" href="http://www.elmundo.es/tiempo/index.html">El tiempo</a></h1>
+<dl>
+<dt><a href="/tiempo/index.html" title="Ir a El tiempo en Madrid">Madrid</a></dt>
+<dd class="meteo_min">M&iacute;nima: <span>13.3&deg;C</span></dd>
+<dd class="meteo_prediccion despejado"><span>Despejado</span></dd>
+<dd class="meteo_max">M&aacute;xima: <span>25.1&deg;C</span></dd>
+</dl>
+<div class="patrocinio"></div>
+</section>
+<section role="region" class="guia-tv">
+<h1><a href="elmundo/television/guiatv/" alt="Ir a Gu�a TV" title="Ir a Gu�a TV">Gu�a TV</a></h1>
+<time datetime="2014-04-15"><span class="hora">02:30h</span> </time>
+<ul>
+<li class="la1">
+Cr&oacute;nicas
+</li>
+<li class="la2">
+Los conciertos...
+</li>
+<li class="a3">
+Minutos musicales
+</li>
+<li class="cuatro">
+House
+</li>
+<li class="t5">
+Premier casino
+</li>
+<li class="la6">
+Minutos musicales
+</li>
+<li class="dmax">
+Documental:...
+</li>
+</ul>
+</section>
+<div id="portada_p_147x150dcha" class="publicidad publicidad-147">
+<!-- CrawlerB. -->
+</div>
+<script src="http://estaticos.elmundo.es/assets/desktop/master/js/economia/indicesajax.js" type="text/javascript"></script>
+<section class="ibex35">
+<h1><a href="http://www.elmundo.es/economia/bolsa/indices/ibex35_I.IB.html">Ibex 35</a></h1>
+<div id="ibex-35"> </div>
+ 
+<script type="text/javascript">
+var VALOR_JSON = "/bolsa/datos/valor_ficha.html";
+ if (typeof llave == 'undefined') {
+      llave = "MTU1MjgwMzo6aHR0cDovL3d3dy5lbG11bmRvLmVzLz09ZmY2MWM3NGUzMzU3MDljZTQ5NWI5NzllNTE4OWJjNzQ=";
+ }
+    var cod_indices=new Array("I.IB");
+   // var cod_indices2=new Array("I.MA","I.NY","I.LE","I.DI","I.TK","DVEUDU");
+
+    procesaIndicesListasDef('ibex-35',cod_indices);
+   // procesaIndicesTabular('indices-mundo',cod_indices2);
+
+</script>
+</section>
+<section class="listado">
+<ul class="nav-portal">
+<li class="espana"><a href="http://www.elmundo.es/espana.html">Espa&ntilde;a</a>
+<ul>
+<li class="madrid"><a href="http://www.elmundo.es/madrid.html">Madrid</a></li>
+<li class="andalucia"><a href="http://www.elmundo.es/andalucia.html">Andaluc&iacute;a</a></li>
+<li class="baleares"><a href="http://www.elmundo.es/baleares.html">Baleares</a></li>
+<li class="barcelona"><a href="http://www.elmundo.es/catalunya.html">Catalu&ntilde;a</a></li>
+<li class="valencia"><a href="http://www.elmundo.es/comunidad-valenciana.html">C. Valenciana</a></li>
+<li class="pais-vasco"><a href="http://www.elmundo.es/pais-vasco.html">Pa&iacute;s Vasco</a></li>
+</ul>
+</li>
+<li class="opinion"><a href="http://www.elmundo.es/opinion.html">Opini&oacute;n</a></li>
+<li class="mundo"><a href="http://www.elmundo.es/internacional.html">Internacional</a></li>
+<li class="economia"><a href="http://www.elmundo.es/economia.html">Econom&iacute;a</a>
+<ul>
+<li class="vivienda"><a href="http://www.elmundo.es/economia/vivienda.html">Vivienda</a></li>
+<li class="innovadores"><a href="http://www.elmundo.es/economia/innovadores.html">Innovadores</a></li>
+</ul>
+</li>
+<li class="deportes"><a href="http://www.elmundo.es/deportes.html">Deportes</a></li>
+<li class="cultura"><a href="http://www.elmundo.es/cultura.html">Cultura</a>
+<ul>
+<li class="toros"><a href="http://www.elmundo.es/cultura/toros.html">Toros</a></li>
+</ul>
+</li>
+<li class="metropoli"><a href="http://www.metropoli.com">Metr&oacute;poli</a></li>
+<li class="vino"><a href="http://www.elmundovino.com">elmundoVINO</a></li>
+<li class="ciencia"><a href="http://www.elmundo.es/ciencia.html">Ciencia</a></li>
+<li class="tecnologia"><a href="http://www.elmundo.es/tecnologia.html">Navegante</a></li>
+<li class="television"><a href="http://www.elmundo.es/television.html">Televisi&oacute;n</a></li>
+<li class="loc"><a href="http://www.elmundo.es/elmundo/gentes.html">L/O/C</a></li>
+<li class="ocholeguas"><a href="http://www.ocholeguas.com">Viajes</a></li>
+<li class="yodona"><a href="http://www.elmundo.es/yodona.html">Yodona</a></li>
+<li class="tendencias"><a href="http://www.elmundo.es/elmundo/tendencias.html">Tendencias</a></li>
+<li class="salud"><a href="http://www.elmundo.es/salud.html">Salud</a></li>
+<li class="motor"><a href="http://www.elmundo.es/motor.html">Motor</a></li>
+<li class="el-mundo-tv"><a href="http://www.elmundo.es/elmundotv/index.html">ELMUNDO TV</a></li>
+<li class="nauta"><a href="http://nauta360.expansion.com/">N&aacute;utica</a></li>
+<li class="cronica"><a href="http://www.elmundo.es/cronica.html">Cr&oacute;nica</a></li>
+</ul>
+<ul class="nav-aplicaciones">
+<li class="orbyt"><a href="http://www.orbyt.es">Orbyt</a></li>
+<li class="iphone"><a href="https://itunes.apple.com/us/app/elmundo.es/id324300162">El Mundo iPhone</a></li>
+<li class="android"><a href="https://play.google.com/store/apps/details?id=com.gi.elmundo.main">El Mundo Android</a></li>
+<li class="em-de-la-tarde"><a href="https://itunes.apple.com/us/app/el-mundo-de-la-tarde/id721623035">EM Tarde iPad</a></li>
+<li class="em-de-la-tarde"><a href="https://play.google.com/store/apps/details?id=com.ue.projects.EMDLT">EM Tarde Android</a></li>
+<li class="loc-ipad"><a href="https://itunes.apple.com/es/app/loc/id745097961?mt=8">LOC iPad</a></li>
+<li class="loc-ipad"><a href="https://play.google.com/store/apps/details?id=com.gi.loc">LOC Android</a></li>
+<li class="deportes-iphone"><a href="https://itunes.apple.com/us/app/el-mundo-deportes-free/id687287126">Deportes iPhone</a></li>
+<li class="deportes-android"><a href="https://play.google.com/store/apps/details?id=com.ue.projects.deportes.lite">Deportes Android</a></li>
+</ul>
+<ul class="nav-servicios">
+<li class="servicios"><a href="http://www.elmundo.es/servicios/index.html">Servicios</a></li>
+<li class="shopping"><a href="http://www.elmundo.es/shopping/index.html">Shopping</a></li>
+<li class="tienda"><a href="http://www.detiendasporelmundo.es">Tienda</a></li>
+<li class="libros"><a href="http://libros.elmundo.es">Libros</a></li>
+<li class="entradas"><a href="http://entradas.elmundo.es">Entradas</a></li>
+<li class="citas"><a href="http://www.flechados.es">Citas</a></li>
+<li class="promociones"><a href="http://www.elmundo.es/promociones/">Promociones</a></li>
+<li class="paginas-amarillas"><a href="http://www.elmundo.es/paginasamarillas/">P. Amarillas</a></li>
+</ul>
+<ul class="nav-clasificados">
+<li class="pisos"><a href="http://www.globaliza.com/">Pisos</a></li>
+<li class="empleo"><a href="http://www.expansionyempleo.com/">Empleo</a></li>
+<li class="coches"><a href="http://www.marcamotoranuncios.com/">Coches</a></li>
+</ul>
+</section>
+<div id="portada_p_147x400dcha" class="publicidad publicidad-147">
+<!-- CrawlerB. -->
+</div>
+<section class="diccionario">
+<h1><a title="Diccionario" alt="Diccionario" href="http://www.elmundo.es/diccionarios/">Diccionario</a></h1>
+<form id="diccionario" method="get" role="buscar" name="buscador_diccionario" class="buscador" action="http://diccionarios.elmundo.es/diccionarios/cgi/diccionario/lee_diccionario.html">
+<input type="text" placeholder="Buscar" name="busca">
+<input type="submit" value class="submit">
+<select name="diccionario">
+<option value="1">Lengua Espanola</option>
+<option value="2">sin�nimos</option>
+<option value="3">ant�nimos</option>
+<option value="4">espanol a ingl�s</option>
+<option value="5">ingl�s a espanol</option>
+<option value="6">espanol a franc�s</option>
+<option value="7">franc�s a espanol</option>
+<option value="8">de medicina</option>
+</select>
+</form>
+</section>
+<section role="region" class="mas-leidas">
+<h1 class="pestana_item">M�s le�das</h1>
+<ol class="contenido_item">
+<li><a href="http://www.elmundo.es/ciencia/2014/04/14/534b9fece2704e88238b456e.html">Un eclipse total da comienzo a las &#039;cuatro lunas de sangre&#039;</a></li>
+<li><a href="http://www.elmundo.es/deportes/2014/04/14/534ba7ef22601d45678b456e.html">Ferrari cambia de director</a></li>
+<li><a href="http://www.elmundo.es/deportes/2014/04/14/534afa06e2704eac3c8b456f.html">&#039;Aqu� hay mucha histeria; eres un genio o un desastre&#039;</a></li>
+<li><a href="http://www.elmundo.es/salud/2014/04/14/534819d3268e3e6c1f8b457f.html">�Por qu� se rompen las parejas?</a></li>
+<li><a href="http://www.elmundo.es/comunidad-valenciana/2014/04/14/534c2a16ca4741bf4f8b4589.html">Se suicida en La Fe tras pedir el carn� de donante de �rganos</a></li>
+<li><a href="http://www.elmundo.es/loc/2014/04/14/53480f05268e3e831f8b4579.html">Las cu�as de 280 euros &#039;made in Alicante&#039; de Kate Middleton</a></li>
+<li><a href="http://www.elmundo.es/cataluna/2014/04/14/534bc099ca47419a4f8b4572.html">Los expertos de Mas creen que un Estado catal�n seguir�a en la UE</a></li>
+<li><a href="http://www.elmundo.es/madrid/2014/04/14/534baaebca47418e4f8b4574.html">Cazado a 131 km/h en La Castellana</a></li>
+<li><a href="http://www.elmundo.es/internacional/2014/04/14/534b461822601dc87b8b4575.html">Rusia advierte del &#039;giro irreversible&#039; que pueden dar los acontecimientos en el este de Ucrania</a></li>
+<li><a href="http://www.elmundo.es/espana/2014/04/14/534b084d268e3ebc6d8b4573.html">&#039;A mi mujer la sacaron de la carretera&#039;</a></li>
+</ol>
+</section>
+<section role="region" class="mas-leidas">
+<h1 class="pestana_item"><a href="http://www.elmundo.es/lo-mas/fotos-mas-vistas.html">�lbumes m�s vistos</a></h1>
+<ol class="contenido_item">
+<li><a href="http://www.elmundo.es/album/loc/2014/04/11/5347f921268e3e581f8b457b.html">El culo de Kim Kardashian, foto a foto</a></li>
+<li><a href="http://www.elmundo.es/album/yodona/2014/04/14/534ba34ce2704e8b238b456f.html">�La �ltima moda en Coachella? Lucir pierna</a></li>
+<li><a href="http://www.elmundo.es/album/loc/2014/04/14/534bad09e2704e83238b456d.html">El lunes de los famosos en im�genes</a></li>
+<li><a href="http://www.elmundo.es/album/yodona/2014/04/14/534b9628ca4741aa4f8b456f.html">Los nueve &#039;looks&#039; triunfadores de Kate</a></li>
+<li><a href="http://www.elmundo.es/album/loc/2014/04/14/534bcbfce2704e9e238b4572.html">Los besos de pel�cula de las &#039;celebrities&#039;</a></li>
+<li><a href="http://www.elmundo.es/album/loc/2014/04/14/534bcfe5e2704eb5238b4570.html">Famosos, devotos e incluso costaleros</a></li>
+<li><a href="http://www.elmundo.es/album/yodona/2014/04/14/534b9ee3268e3e166d8b456c.html">Provocaci�n, el &#039;dress code&#039; de los MTV Movie Awards</a></li>
+<li><a href="http://www.elmundo.es/album/yodona/2014/04/12/5347bbaeca47415e478b4571.html">Los horrores VIP de la semana</a></li>
+<li><a href="http://www.elmundo.es/album/internacional/2014/04/14/534b489e22601dd77b8b4574.html">El fuego sigue vivo en Valpara�so</a></li>
+<li><a href="http://www.elmundo.es/album/loc/2014/04/13/534a5fd4ca47417b0f8b456d.html">El domingo de los famosos en im�genes</a></li>
+</ol>
+</section>
+<section class="flechados" role="region">
+<h1><a title="Ir a Flechados" href="http://www.flechados.es/s/?utm_source=elmundoes&utm_medium=home&utm_campaign=flechados"><img src="//estaticos01.elmundo.es/em/img/flechados/logo-flechados.png" title="Flechados"/></a></h1>
+<a href="http://www.flechados.es/s/?utm_source=elmundoes&utm_medium=home&utm_campaign=flechados" title="Ir a Flechados"> <img src="//estaticos02.elmundo.es/elmundo/imagenes/2014/04/04/mininoticias_servicios/1373384190_extras_noticia_foton_1_0.jpg" border="0" width="112" height="120" alt="[foto de la noticia]"/> 
+<p>Encuentra el amor y la amistad en la web de citas de ELMUNDO.</p></a>
+</section>
+<div id="portada_p_147x300dcha" class="publicidad publicidad-147">
+<!-- CrawlerB. -->
+</div>
+<div class="ecommerce">
+<h1><a href="http://www.detiendasporelmundo.es/">De tiendas</a></h1>
+<div class="producto">
+<a href="http://www.detiendasporelmundo.es/productos/reloj-adn-espanol-blanco-/p-11-218-8989-0-1-0/?cid=SINECOM0101&amp;s_kw=reloj_adn_espanol_blanco" class="nombre">Reloj ADN Espa�ol Blanco</a>
+<a href="http://www.detiendasporelmundo.es/productos/reloj-adn-espanol-blanco-/p-11-218-8989-0-1-0/?cid=SINECOM0101&amp;s_kw=reloj_adn_espanol_blanco">
+<span class="precio">49 &#8364; </span>
+<img border="0" alt="Reloj ADN Espa�ol Blanco" src="http://estaticos.elmundo.es/ecommerce/img/ec/1005292.jpg">
+</a>
+</div>
+<div class="producto">
+<a href="http://entradas.elmundo.es/entradas-rolling-stones/ca578?s=rolling&amp;cid=SINECOM0101&amp;s_kw=entradas_rolling_stones_madrid" class="nombre">Entradas - Rolling Stones Madrid</a>
+<a href="http://entradas.elmundo.es/entradas-rolling-stones/ca578?s=rolling&amp;cid=SINECOM0101&amp;s_kw=entradas_rolling_stones_madrid">
+<img border="0" alt="Entradas - Rolling Stones Madrid" src="http://estaticos.elmundo.es/ecommerce/img/53/1007443.jpg">
+</a>
+</div>
+<div class="producto">
+<a href="http://www.detiendasporelmundo.es/productos/reloj-aviador-cabujon/p-11404/?cid=SINECOM0101&amp;s_kw=reloj_aviador_cabujon" class="nombre">Reloj Aviador CABUJON</a>
+<a href="http://www.detiendasporelmundo.es/productos/reloj-aviador-cabujon/p-11404/?cid=SINECOM0101&amp;s_kw=reloj_aviador_cabujon">
+<span class="precio">29.95 &#8364; </span>
+<img border="0" alt="Reloj Aviador CABUJON" src="http://estaticos.elmundo.es/ecommerce/img/5c/1007452.jpg">
+</a>
+</div>
+</div>
+<section class="horoscopo">
+<h1>
+<a href="http://www.elmundo.es/horoscopo/">Hor&oacute;scopo</a>
+</h1>
+<div class="foto">
+<a href="http://www.elmundo.es/horoscopo/">
+<img title="Hor&oacute;scopo" alt="Hor&oacute;scopo" src="http://estaticos.elmundo.es/elmundo/iconos/v4.x/v4.05/servicios/horoscopo.png">
+</a>
+</div>
+<a class="enlace-interno" href="http://www.elmundo.es/horoscopo/">Consulta tu hor&oacute;scopo de hoy en EL MUNDO</a>
+</section>
+<!-- SU VIVIENDA -->
+<script language="javascript" type="text/javascript">
+function clasif2_sv_busca() {
+nomProv = new Array();
+nomProv[1] = "albacete";
+nomProv[2] = "alicante";
+nomProv[3] = "almeria";
+nomProv[4] = "avila";
+nomProv[5] = "badajoz";
+nomProv[6] = "barcelona";
+nomProv[7] = "vizcaya";
+nomProv[8] = "burgos";
+nomProv[9] = "caceres";
+nomProv[10] = "cadiz";
+nomProv[11] = "castellon";
+nomProv[12] = "ciudadReal";
+nomProv[13] = "cordoba";
+nomProv[14] = "coruna";
+nomProv[15] = "cuenca";
+nomProv[16] = "girona";
+nomProv[17] = "granada";
+nomProv[18] = "guadalajara";
+nomProv[19] = "huelva";
+nomProv[20] = "huesca";
+nomProv[21] = "jaen";
+nomProv[22] = "leon";
+nomProv[23] = "rioja";
+nomProv[24] = "lugo";
+nomProv[25] = "lleida";
+nomProv[26] = "madrid";
+nomProv[27] = "malaga";
+nomProv[28] = "murcia";
+nomProv[29] = "orense";
+nomProv[30] = "asturias";
+nomProv[31] = "palencia";
+nomProv[32] = "navarra";
+nomProv[33] = "pontevedra";
+nomProv[34] = "salamanca";
+nomProv[35] = "guipuzcoa";
+nomProv[36] = "cantabria";
+nomProv[37] = "segovia";
+nomProv[38] = "sevilla";
+nomProv[39] = "soria";
+nomProv[40] = "tarragona";
+nomProv[41] = "teruel";
+nomProv[42] = "toledo";
+nomProv[43] = "valencia";
+nomProv[44] = "valladolid";
+nomProv[45] = "alava";
+nomProv[46] = "zamora";
+nomProv[47] = "zaragoza";
+nomProv[48] = "baleares";
+nomProv[49] = "ceuta";
+nomProv[50] = "melilla";
+nomProv[51] = "lasPalmas";
+nomProv[52] = "tenerife";
+var provId = document.clasif2_sv_form.clasif2_sv_provid.value;
+var prov = nomProv[provId];
+var tipoInm = document.clasif2_sv_form.clasif2_sv_tipoinm.value;
+var comprar = document.clasif2_sv_form.clasif2_sv_compalq[0];
+var alquilar = document.clasif2_sv_form.clasif2_sv_compalq[1];
+if(tipoInm == 7) {
+return ("http://www.globaliza.com/www/es/buscador/promociones.jsp?nombreProvincia=" + prov + "&origenApp=35");
+}
+else if(tipoInm == 99) {
+return ("http://www.globaliza.com/www/es/buscador/" + ((alquilar.checked) ? "alquileres" : "inmuebles") + ".jsp?nombreProvincia=" + prov + "&origenApp=35");
+}
+else {
+return ("http://www.globaliza.com/www/es/buscador/otrosInmuebles/listadoInmuebles.jsp?buscar=10&idProvincia=" + provId + "&idTipoInmueble=" + tipoInm + "&idSituacion=" + ((comprar.checked) ? '1' : ((alquilar.checked) ? '2' : '')) + "&origenApp=35");
+}
+}
+</script>
+<style type="text/css">section.su-vivienda{-moz-border-bottom-colors:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;background:none repeat scroll 0 0 #FFFFFF;border-color:#4257A5;border-image:none;border-right:1px solid #5A6BC9;border-style:solid;border-width:3px 1px 1px;clear:both;float:left;margin-bottom:23px;padding:10px;text-align:center;}section.su-vivienda h1,section.su-vivienda h2{font-family:"Roboto Condensed",Arial,sans-serif;margin-bottom:0;float:none;}section.su-vivienda h1 a img{margin:5px 0;}section.su-vivienda h2{font-size:95%;}section.su-vivienda form{font-family:"Roboto Condensed",Arial,sans-serif;font-size:85%;}section.su-vivienda label{float:left;margin:5px 10px;width:70%;text-align:left;}section.su-vivienda legend{color:#4257A5;width:100%;display:none;}section.su-vivienda fieldset{margin:0 0 5px;}section.su-vivienda select{margin:0;}section.su-vivienda input{float:left;margin:5% 0 0 0;width:auto;}section.su-vivienda input.buscar{float:none;margin:0 0 10px;padding:0;width:100%;}section.su-vivienda form+a{color:#009ADD;font:100% "Roboto Condensed",Arial,sans-serif;}</style>
+<section class="su-vivienda">
+<h1>
+<a title="Diccionario" alt="Diccionario" href="http://www.elmundo.es/diccionarios/">
+<img src="//estaticos03.elmundo.es/img/logos/logo-globaliza.jpg" alt="globaliza.com"/></a>
+</h1>
+<form id method="get" role="buscar" name="clasif2_sv_form" class="buscador" action onsubmit="location.href = clasif2_sv_busca(); return false;">
+<fieldset>
+<legend>�Qu� deseas hacer?</legend>
+<input type="radio" name="clasif2_sv_compalq" value="1" checked>
+<label>Comprar</label>
+<input type="radio" name="clasif2_sv_compalq" value="2">
+<label>Alquilar</label>
+</fieldset>
+<fieldset>
+<legend>Tipos de inmuebles</legend>
+<select name="clasif2_sv_tipoinm">
+<option value="99">Viviendas</option>
+<option value="7">Obra Nueva</option>
+<option value="9">Locales</option>
+<option value="10">Oficinas</option>
+<option value="43">Garajes</option>
+<option value="12">Suelos</option>
+<option value="46">Naves</option>
+</select>
+</fieldset>
+<fieldset>
+<legend>Elige una provincia</legend>
+<select name="clasif2_sv_provid">
+<option value="26">Madrid</option>
+<option value="6">Barcelona</option>
+<option value="26">--------</option>
+<option value="45">&Aacute;lava</option>
+<option value="1">Albacete</option>
+<option value="2">Alicante</option>
+<option value="3">Almer&iacute;a</option>
+<option value="30">Asturias</option>
+<option value="4">&Aacute;vila</option>
+<option value="5">Badajoz</option>
+<option value="6">Barcelona</option>
+<option value="8">Burgos</option>
+<option value="9">C&aacute;ceres</option>
+<option value="10">C&aacute;diz</option>
+<option value="36">Cantabria</option>
+<option value="11">Castell&oacute;n</option>
+<option value="49">Ceuta</option>
+<option value="12">Ciudad Real</option>
+<option value="13">C&oacute;rdoba</option>
+<option value="15">Cuenca</option>
+<option value="16">Gerona</option>
+<option value="17">Granada</option>
+<option value="18">Guadalajara</option>
+<option value="35">Guip&uacute;zcoa</option>
+<option value="19">Huelva</option>
+<option value="20">Huesca</option>
+<option value="48">I. Baleares</option>
+<option value="21">Ja&eacute;n</option>
+<option value="14">La Coru&ntilde;a</option>
+<option value="23">La Rioja</option>
+<option value="51">Las Palmas</option>
+<option value="22">Le&oacute;n</option>
+<option value="25">L&eacute;rida</option>
+<option value="24">Lugo</option>
+<option value="26">Madrid</option>
+<option value="27">M&aacute;laga</option>
+<option value="50">Melilla</option>
+<option value="28">Murcia</option>
+<option value="32">Navarra</option>
+<option value="29">Orense</option>
+<option value="31">Palencia</option>
+<option value="33">Pontevedra</option>
+<option value="34">Salamanca</option>
+<option value="52">S.C.Tenerife</option>
+<option value="37">Segovia</option>
+<option value="38">Sevilla</option>
+<option value="39">Soria</option>
+<option value="40">Tarragona</option>
+<option value="41">Teruel</option>
+<option value="42">Toledo</option>
+<option value="43">Valencia</option>
+<option value="44">Valladolid</option>
+<option value="7">Vizcaya</option>
+<option value="46">Zamora</option>
+<option value="47">Zaragoza</option>
+</select>
+</fieldset>
+<input type="submit" value="BUSCAR" class="buscar">
+</form>
+<a href="http://www.globaliza.com/www/es/area/altaParticulares.jsp" target="_blank">An�nciese GRATIS </A>
+</section>
+<!-- /SU VIVIENDA -->
+</div>
+<section class="formacion">
+<h1><a href="http://quiosco.orbyt.es/">EL MUNDO en Orbyt</a></h1>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia especial  cultura ">
+<div class="foto">
+<a href="http://www.elmundo.es/cultura/2014/04/11/5347abba268e3e5b1f8b456f.html">
+<a href="http://www.orbyt.es/estaticas/promociones/2014/04/orbyt/semana-santa/?cid=OR45001&s_kw=mundohome">
+<img src="//estaticos04.elmundo.es/assets/multimedia/imagenes/2014/04/11/13972138713745.jpg" width="147" alt/>
+</a>
+</a>
+</div>
+<header>
+<h1 class="normal">
+<a href="http://www.orbyt.es/estaticas/promociones/2014/04/orbyt/semana-santa/?cid=OR45001&amp;s_kw=mundohome">Ab�nate ya en EL MUNDO en Orbyt por solo 5�/ mes.</a>
+</h1>
+</header>
+</article>
+</div>
+</section>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia especial especial television ">
+<div class="foto">
+<a href="http://www.elmundo.es/television/2014/01/15/52d6a640ca474104248b457a.html">
+<a href="http://www.escuelaunidadeditorial.es/master-periodismo.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/02/06/13916803707109.jpg" width="147" alt/>
+</a>
+</a>
+</div>
+<header>
+<p class="antetitulo">
+<span>
+<a href="/television.html">Formaci�n</a>
+</span>
+</p>
+<h1 class="normal">
+<a href="http://www.escuelaunidadeditorial.es/master-periodismo.html">Escuela de periodismo</a>
+</h1>
+</header>
+</article>
+</div>
+<section class="promociones">
+<h1>Concurso</h1>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<article class="noticia especial  cultura ">
+<div class="foto">
+<a href="http://www.elmundo.es/cultura/2014/04/10/53468991268e3edc588b457b.html">
+<a href="http://www.elmundo.es/shopping/concursos/pompeya/index.html">
+<img src="//estaticos01.elmundo.es/assets/multimedia/imagenes/2014/04/10/13971315826515.jpg" width="147" alt/>
+</a>
+</a>
+</div>
+<header>
+<h1 class="normal">
+<a href="http://www.elmundo.es/shopping/concursos/pompeya/index.html">�GANA un viaje a Pompeya!</a>
+</h1>
+</header>
+</article>
+</div>
+</section>
+<div class="bloque fijo-100 nthchild" data-col="2" data-nthchild="1">
+<div class="bloque_noticias_externas">
+<div class="externa marca">
+<h5><a href="http://www.marca.com">Lo mejor de Marca</a></h5>
+<ol>
+<li class="first_child color0"><a target="_blank" href="http://www.marca.com/2014/03/30/multimedia/graficos/1396139847.html"><strong>Gr�fico:</strong> La calculadora de la Liga</a></li>
+<li class="color1"><a target="_blank" href="http://www.marca.com/2014/04/14/futbol/equipos/betis/1397469036.html">Un comentario de Unai Emery hizo llorar a Leo Baptistao</a></li>
+<li class="color0"><a target="_blank" href="http://www.marca.com/2014/04/14/futbol/copa_rey/madrid-barcelona/1397435474.html">La plantilla ya no cree en el Tata</a></li>
+<li class="color1"><a target="_blank" href="http://www.marca.com/2014/04/14/motor/formula1/1397466295.html">Domenicali deja Ferrari</a></li>
+<li class="color0"><a target="_blank" href="http://www.marca.com/2014/04/13/futbol/equipos/atletico/1397415003.html">Diego Costa sufre una herida en la tibia tras golpearse con el poste</a></li>
+</ol> </div>
+</div>
+<div class="bloque_noticias_externas">
+<div class="externa expansion">
+<h5><a href="http://www.expansion.com">Lo mejor de Expansi&oacute;n</a></h5>
+<ol>
+<li class="first_child color0">
+<a target="_blank" href="http://www.expansion.com/2014/04/14/emprendedores-empleo/desarrollo-de-carrera/1397496430.html">Cu�nto puedes ganar si estudias un m�ster</a>
+</li>
+<li class="color1">
+<a target="_blank" href="http://www.expansion.com/2014/04/14/empresas/digitech/1397502530.html">Amazon prev� vender un smartphone propio para estimular la venta de contenidos digitales</a>
+</li>
+<li class="color0">
+<a target="_blank" href="http://www.expansion.com/2014/04/14/tendencias/1397457781.html">C�digo estil�stico de Pascua</a>
+</li>
+<li class="color1">
+<a target="_blank" href="http://www.expansion.com/especiales/renta2013/">Renta 2013</a>
+</li>
+<li class="color0">
+<a target="_blank" href="http://www.axesor.es/informacion-empresas/rai.aspx">Acceso al RAI</a>
+</li>
+</ol>
+</div>
+</div>
+<div id="portada_mundo_portada_p_147x300bdcha" class="publicidad publicidad-147">
+</div>
+</div>
+</aside>
+</div>
+<div class="bloque fijo-100 nthchild" data-col="12" data-nthchild="1">
+<div id="portada_p_827x50" class="publicidad publicidad-827">
+<!-- SELF: //index.html --><!-- CrawlerB. -->
+</div>
+</div>
+<div class="bloque fijo-33-33-33 nthchild" data-col="12" data-nthchild="1">
+<section class="servicios">
+<h1><a href="http://www.elmundo.es/servicios/index.html">Servicios</a></h1>
+<ul>
+<li><a href="http://www.elmundo.es/elmundo/television/guiatv/">Gu&iacute;a TV</a></li>
+<li><a href="http://www.elmundo.es/loterias/">Sorteos y loter&iacute;as</a></li>
+<li><a href="http://www.metropoli.com/cine/estrenos.html">Estrenos</a></li>
+<li><a href="http://www.metropoli.com/cine/cartelera.html">Cartelera</a></li>
+<li><a href="http://www.elmundo.es/elmundomotor/trafico/buscadorincidencias.html">Tr&aacute;fico</a></li>
+<li><a href="http://www.elmundo.es/callejero/">Callejero</a></li>
+<li><a href="http://www.elmundo.es/horoscopo/">Hor&oacute;scopo</a></li>
+<li><a href="http://www.elmundo.es/elmundo/hemeroteca/">Hemeroteca</a></li>
+<li><a href="http://www.elmundo.es/diccionarios/">Diccionarios</a></li>
+<li><a href="http://www.elmundo.es/economia/bolsa/indices.html">Bolsa</a></li>
+<li><a href="http://www.escuelaunidadeditorial.es/master-periodismo.html">M&aacute;ster Periodismo</a></li>
+<li><a href="http://www.elmundo.es/traductor/">Traductor</a></li>
+<li><a href="http://www.elmundo.es/promociones/">Promociones</a></li>
+<li><a href="http://libros.elmundo.es/">Libros</a></li>
+<li><a href="http://www.elmundo.es/tiempo/">El tiempo</a></li>
+<li><a href="http://www.elmundo.es/calendario/2013">Calendario 2013</a></li>
+<li><a href="http://www.elmundo.es/pasatiempos/">Pasatiempos</a></li>
+<li><a href="http://www.flechados.es">Citas</a></li>
+<li><a href="http://seguros.elmundo.es/">Seguros veh&iacute;culos</a></li>
+<li><a href="http://entradas.elmundo.es">Entradas</a></li>
+<li><a href="http://www.metroplanes.com/">Cupones</a></li>
+<li><a href="http://www.expansion.com/midinero/conversor-divisas.html">Conversor de monedas</a></li>
+</ul>
+</section>
+<section class="hot-topics">
+<h1>Destacados</h1>
+<ul>
+<li>
+<a href="http://www.elmundo.es/t/ca/caso-noos.html">
+Caso N�os
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/t/ca/caso-barcenas.html">
+Caso B�rcenas
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/elmundodeporte/formula1/calendario.html">
+Calendario F1
+</a>
+</li>
+<li>
+<a href="http://www.metropoli.com/p/restaurantes-madrid.html">
+Restaurantes en Madrid
+</a>
+</li>
+<li>
+<a href="http://www.metropoli.com/p/restaurantes-barcelona.html">
+Comer en Barcelona
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/deportes/baloncesto.html">
+Baloncesto
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/deportes/motociclismo.html">
+MotoGP
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/elmundo/tags/05/crisis-economica.html">
+Crisis Econ�mica
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/economia/2014/04/03/533d0bd122601d88118b456a.html">
+Devoluci�n Renta 2013
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/cataluna/2014/02/19/5304a3a5268e3ebd4c8b457a.html">
+Caso Neymar
+</a>
+</li>
+<li>
+<a href="http://www.expansion.com/mercados/cotizaciones/indices/ibex35_I.IB.html">
+IBEX 35
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/deportes/futbol/liga-primera-division.html">
+Liga BBVA
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/elmundodeporte/futbol/liga-primera/clasificacion.html">
+Calendario liga BBVA
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/elmundodeporte/futbol/champions/calendario/">
+Calendario Champions
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/elmundodeporte/formula1/">
+F1 F�rmula 1
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/loterias/euromillones.html">
+Euromillones
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/economia/2014/04/10/53451b6d22601d33688b4578.html">
+Novedades Renta 2013
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/deportes/2014/04/10/534666ce268e3ec5588b457f.html">
+Sorteo de Champions
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/internacional/2014/03/23/532ee525268e3e751e8b4572.html">
+Ucrania
+</a>
+</li>
+<li>
+<a href="http://www.elmundo.es/economia/2014/04/01/53395afde2704e99368b456f.html">
+Renta 2013
+</a>
+</li>
+</ul>
+</section>
+<section class="peliculas-semana">
+<h1><a href="http://www.metropoli.com/" title="Metropoli.com">Metropoli</a></h1>
+<div class="buscador-general">
+<script>
+          function do_busqueda(){
+          var query = document.forms['formulario'].busqueda.value;
+          query = query.replace(/^\s+|\s+$/g, "");
+          if (query == '')
+          {
+          alert ("Falta el criterio de búsqueda"); return false;
+          }
+          else
+          {
+          document.forms['formulario'].submit();
+          }
+          }
+          </script>
+<form onsubmit="return do_busqueda();" name="formulario" method="post" action="http://buscador.metropoli.com/buscar/todos">
+<input type="search" name="busqueda" onfocus="this.value=''" maxlength="256" value="Buscar..." id="resultado-quebuscas">
+<input type="button" onclick="do_busqueda();" value="Buscar">
+</form>
+</div>
+<ul>
+<li><a href="http://www.metropoli.com/cine/cartelera.html">Cartelera</a></li>
+<li><a href="http://www.metropoli.com/cine/estrenos.html">Estrenos</a></li>
+<li><a href="http://www.metropoli.com/cine/">Cine</a></li>
+<li><a href="http://www.metropoli.com/teatro/">Teatro</a></li>
+<li><a href="http://www.metropoli.com/musica/">M&uacute;sica</a></li>
+<li><a href="http://www.metropoli.com/comer/">Comer</a></li>
+<li><a href="http://www.metropoli.com/salir/">Salir</a></li>
+<li><a href="http://www.metropoli.com/cine/cartelera.html">Cartelera</a></li>
+<li><a href="http://www.metropoli.com/arte/">Arte</a></li>
+</ul>
+</section>
+</div>
+<div class="bloque fijo-100 nthchild" data-col="12" data-nthchild="1">
+<div class="ecommerce">
+<h1><a href="http://www.detiendasporelmundo.es/">De tiendas</a></h1>
+<div class="producto">
+<a href="http://www.detiendasporelmundo.es/productos/la-pepa-/p-10548/?cid=SINECOM0101&amp;s_kw=la_pepa" class="nombre">La Pepa</a>
+<a href="http://www.detiendasporelmundo.es/productos/la-pepa-/p-10548/?cid=SINECOM0101&amp;s_kw=la_pepa">
+<span class="precio">294 &#8364; </span>
+<img border="0" alt="La Pepa" src="http://estaticos.elmundo.es/ecommerce/img/a7/1002919.jpg">
+</a>
+</div>
+<div class="producto">
+<a href="http://entradas.elmundo.es/entradas-null/ev51086?cid=SINECOM0201&amp;s_kw=entradas_semifinales_champions_league" class="nombre">Entradas Semifinales Champions League</a>
+<a href="http://entradas.elmundo.es/entradas-null/ev51086?cid=SINECOM0201&amp;s_kw=entradas_semifinales_champions_league">
+<img border="0" alt="Entradas Semifinales Champions League" src="http://s3-eu-west-1.amazonaws.com/statictb.net/categoria/56_500.jpg">
+</a>
+</div>
+<div class="producto">
+<a href="http://www.detiendasporelmundo.es/productos/camiseta-carlino-aviador-3d/p-11256/?cid=SINECOM0101&amp;s_kw=camiseta_carlino_aviador_3d" class="nombre">Camiseta Carlino Aviador 3D</a>
+<a href="http://www.detiendasporelmundo.es/productos/camiseta-carlino-aviador-3d/p-11256/?cid=SINECOM0101&amp;s_kw=camiseta_carlino_aviador_3d">
+<span class="precio">24.9 &#8364; </span>
+<img border="0" alt="Camiseta Carlino Aviador 3D" src="http://estaticos.elmundo.es/ecommerce/img/1d/1007389.jpg">
+</a>
+</div>
+<div class="producto">
+<a href="http://www.detiendasporelmundo.es/productos/manguera-hose-xxl-corta/p-11341/?cid=SINECOM0101&amp;s_kw=manguera_hose_xxl_corta" class="nombre">Manguera Hose XXL corta</a>
+<a href="http://www.detiendasporelmundo.es/productos/manguera-hose-xxl-corta/p-11341/?cid=SINECOM0101&amp;s_kw=manguera_hose_xxl_corta">
+<span class="precio">15.9 &#8364; </span>
+<img border="0" alt="Manguera Hose XXL corta" src="http://estaticos.elmundo.es/ecommerce/img/32/1007410.jpg">
+</a>
+</div>
+<div class="producto">
+<a href="http://entradas.elmundo.es/entradas-final-copa-del-rey-2014/ev48892?cid=SINECOM0201&amp;s_kw=entradas_final_copa_del_rey_2014" class="nombre">Entradas Final Copa del Rey 2014</a>
+<a href="http://entradas.elmundo.es/entradas-final-copa-del-rey-2014/ev48892?cid=SINECOM0201&amp;s_kw=entradas_final_copa_del_rey_2014">
+<img border="0" alt="Entradas Final Copa del Rey 2014" src="http://estaticos.elmundo.es/ecommerce/img/5f/1007455.jpg">
+</a>
+</div>
+</div>
+</div>
+<section class="carrusel">
+<h1>LOS MEJORES �LBUMES</h1>
+<div id="carrusel" class data-col="12">
+<a href="#" class="anterior " title="Siguiente"></a>
+<div class="contenedor-listado">
+<div class="envuelve-listado">
+<ul class="elementos-listado">
+<li>
+<article class="noticia 
+        internacional
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534bcd90e2704e8d238b4573.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534bcd90e2704e8d238b4573.html">
+<img src="//estaticos02.elmundo.es/assets/multimedia/imagenes/2014/04/14/13974864668659.jpg" width="827" alt="Un devoto sij ora en las horas previas al amanecer mientras se sienta..."/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal">
+<a href="http://www.elmundo.es/album/internacional/2014/04/14/534bcd90e2704e8d238b4573.html">24 horas... 24 fotos</a>
+</h1>
+</header>
+</div>
+</article>
+</li>
+<li>
+<article class="noticia 
+        cultura
+        ">
+<div class="foto">
+<a href="http://www.elmundo.es/album/cultura/2014/04/12/5348fac4e2704e2a538b456b.html" title="Ver m&aacute;s im&aacute;genes" class="mas-fotos">Im&aacute;genes</a>
+<a href="http://www.elmundo.es/album/cultura/2014/04/12/5348fac4e2704e2a538b456b.html">
+<img src="//estaticos03.elmundo.es/assets/multimedia/imagenes/2014/04/12/13972989505044.jpg" width="827" alt="Self-portrait (Autoportrait)"/>
+</a>
+</div>
+<div class="elementos-texto">
+<header>
+<h1 class="normal">
+<a href="http://www.elmundo.es/album/cultura/2014/04/12/5348fac4e2704e2a538b456b.html">Mapplethorpe, el inconformista</a>
+</h1>
+</header>
+</div>
+</article>
+</li>
+</ul>
+</div>
+</div>
+<a href="#" class="siguiente "></a>
+</div>
+<script type="text/javascript">
+                                    var miniaturas1 = new ueCarrusel({
+                    idCont: "carrusel"
+                    });
+                            </script>
+</section>
+<div class="bloque fijo-100 nthchild" data-col="12" data-nthchild="1">
+<div id="portada_p_990x50" class="publicidad publicidad-980">
+<!-- CrawlerB. -->
+</div>
+</div>
+<div class="bloque fijo-100 nthchild" data-col="12" data-nthchild="1">
+<div id="portada_p_990x50b" class="publicidad publicidad-980">
+<!-- CrawlerB. -->
+</div>
+<section class="suplementos">
+<div data-nthchild="3" class="bloque fijo-33-33-33 nthchild" data-col="12">
+<article class="motor">
+<div class="foto">
+<a href="http://www.elmundo.es/motor/2014/04/14/534bba5822601d27678b4576.html"> <img src="//estaticos04.elmundo.es/elmundo/imagenes/2014/04/14/suplementos/1396261615_extras_noticia_foton_1_1.jpg" border="0" width="317" height="211" alt="[foto de la noticia]"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://www.elmundo.es/elmundomotor">Motor</a></h1>
+<h2><a href="http://www.elmundo.es/motor/2014/04/14/534bba5822601d27678b4576.html">Bentley se 'enchufa'</a></h2>
+</header>
+<p class="publi-suplemento-310">
+<!-- HX=portada310x25_a --><!-- CrawlerB. -->
+</p>
+</article>
+<article class="especiales">
+<div class="foto">
+<a href="http://www.elmundo.es/especiales/2014/cultura/noe/index.html"> <img src="//estaticos01.elmundo.es/elmundo/imagenes/2014/04/03/suplementos/1303231376_extras_noticia_foton_1_2.jpg" border="0" width="317" height="211" alt="[foto de la noticia]"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://www.elmundo.es/especiales/index.html">Especiales</a></h1>
+<h2><a href="http://www.elmundo.es/especiales/2014/cultura/noe/index.html">Viaje al Ararat</a></h2>
+</header>
+<p class="publi-suplemento-310">
+<!-- HX=portada310x25_b --><!-- CrawlerB. -->
+</p>
+</article>
+<article class="ocholeguas">
+<div class="foto">
+<a href="http://www.ocholeguas.com/2014/04/10/otrosmundos/1397146696.html"> <img src="//estaticos02.elmundo.es/elmundo/imagenes/2014/04/14/suplementos/1376654578_extras_noticia_foton_1_1.jpg" border="0" width="317" height="211" alt="Ocholeguas.com, el portal de viajes de Elmundo.es"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://www.ocholeguas.com">Ocholeguas</a></h1>
+<h2><a href="http://www.ocholeguas.com/2014/04/10/otrosmundos/1397146696.html">Destinos por debajo del mar</a></h2>
+</header>
+<p class="publi-suplemento-200">
+<!-- HX=portada200x25_a --><!-- CrawlerB. -->
+</p>
+</article>
+</div>
+<div data-nthchild="3" class="bloque fijo-33-33-33 nthchild" data-col="12">
+<article class="metropoli">
+<div class="foto">
+<a href="http://www.metropoli.com/comer/2014/04/10/5345231022601d54688b456e.html"> <img src="//estaticos03.elmundo.es/elmundo/imagenes/2014/04/14/suplementos/1385374507_extras_noticia_foton_1_0.jpg" border="0" width="317" height="210" alt="[foto de la noticia]"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://www.elmundo.es/metropoli/">Metr�poli</a></h1>
+<h2><a href="http://www.metropoli.com/comer/2014/04/10/5345231022601d54688b456e.html">El mejor bacalao de Madrid</a></h2>
+</header>
+<p class="publi-suplemento-200">
+<!-- HX=portada200x25_b --><!-- CrawlerB. -->
+</p>
+</article>
+<article class="tendencias">
+<div class="foto">
+<a href="http://www.elmundo.es/tendencias/2014/04/11/5345011c268e3e7d128b456c.html"> <img src="//estaticos04.elmundo.es/elmundo/imagenes/2014/04/11/suplementos/1376654637_extras_noticia_foton_1_0.jpg" border="0" width="317" height="211" alt="[foto de la noticia]"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://www.elmundo.es/elmundo/tendencias.html">Tendencias</a></h1>
+<h2><a href="http://www.elmundo.es/tendencias/2014/04/11/5345011c268e3e7d128b456c.html">Mocasines singulares</a></h2>
+</header>
+<p class="publi-suplemento-200">
+<!-- HX=portada200x25_c --><!-- CrawlerB. -->
+</p>
+</article>
+<article class="vino">
+<div class="foto">
+<a href="http://elmundovino.elmundo.es/elmundovino/noticia.html?vi_seccion=7&vs_fecha=201404&vs_noticia=1397408634"> <img src="//estaticos01.elmundo.es/elmundo/imagenes/2014/04/13/suplementos/1392802473_extras_noticia_foton_1_0.jpg" border="0" width="327" height="211" alt="[foto de la noticia]"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://elmundovino.elmundo.es/elmundovino/">elmundovino</a></h1>
+<h2><a href="http://elmundovino.elmundo.es/elmundovino/noticia.html?vi_seccion=7&vs_fecha=201404&vs_noticia=1397408634">La ruleta del vino</a></h2>
+</header>
+<p class="publi-suplemento-200">
+<!-- HX=portada200x25_d --><!-- CrawlerB. -->
+</p>
+</article>
+</div>
+<div data-nthchild="3" class="bloque fijo-33-33-33 nthchild" data-col="12">
+<article class="fueradeserie">
+<div class="foto">
+<a href="http://www.fueradeserie.expansion.com"> <img src="//estaticos01.elmundo.es/elmundo/imagenes/2014/04/14/suplementos/1267095374_extras_noticia_foton_1_0.jpg" border="0" width="317" height="211" alt="[foto de la noticia]"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://fueradeserie.expansion.com/">Fuera de Serie</a></h1>
+<h2><a href="http://www.fueradeserie.expansion.com">Miss vestida de tweed</a></h2>
+</header>
+<p class="publi-suplemento-200">
+<!-- HX=portada200x25_e --><!-- CrawlerB. -->
+</p>
+</article>
+<article class="yodona">
+<div class="foto">
+<a href="http://www.elmundo.es/yodona/paris/2013/pv/desfiles/giambattista-valli.html"> <img src="//estaticos02.elmundo.es/elmundo/imagenes/2014/04/14/suplementos/1392802610_extras_noticia_foton_1_0.jpg" border="0" width="317" height="211" alt="[foto de la noticia]"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://www.elmundo.es/yodona/">YoDona</a></h1>
+<h2><a href="http://www.elmundo.es/yodona/paris/2013/pv/desfiles/giambattista-valli.html">Desfiles: Giambattista Valli</a></h2>
+</header>
+<p class="publi-suplemento-200">
+<!-- HX=portada200x25_f --><!-- CrawlerB. -->
+</p>
+</article>
+<article class="elcultural">
+<div class="foto">
+<a href="http://www.elcultural.es/version_papel/ARTE/34464/Paula_Rego"> <img src="//estaticos03.elmundo.es/elmundo/imagenes/2014/04/14/suplementos/1383925193_extras_noticia_foton_1_0.jpg" border="0" width="317" height="211" alt="[foto de la noticia]"/> 
+</a>
+</div>
+<header>
+<h1><a href="http://www.elcultural.es">El Cultural</a></h1>
+<h2><a href="http://www.elcultural.es/version_papel/ARTE/34464/Paula_Rego">Arte, aborto y ablaci�n</a></h2>
+</header>
+<p class="publi-suplemento-200">
+</p>
+</article>
+</div>
+</section>
+<div id="portada_p_990x50c" class="publicidad publicidad-980">
+<!-- CrawlerB. -->
+</div>
+<div id="portada_p_990x50d" class="publicidad publicidad-980">
+<!-- CrawlerB. -->
+</div>
+<div class="publicidad publicidad-audit">
+<!-- CrawlerB. -->
+</div>
+</div>
+</div>
+<a class="subir" href="#contenedor">Subir</a>
+<footer itemscope itemtype="http://schema.org/Organization" class="pie-portal">
+<div class="info-site">
+<ul class="legal">
+<li itemtype="http://schema.org/CreativeWork" itemscope><small itemprop="copyrightHolder">&copy; 2014 <span itemprop="name">Unidad Editorial Informaci&oacute;n General S.L.U.</span></small></li>
+<li><a href="http://www.elmundo.es/privacidad/avisolegal.html">Aviso legal</a></li>
+<li><a href="http://www.elmundo.es/privacidad/">Privacidad</a></li>
+<li>Certificado por <a href="http://www.ojd.es/">OJD</a></li>
+<li><a href="http://www.unidadeditorial.com/publicidad/">Publicidad</a></li>
+<li><a href="http://www.elmundo.es/registro/contacto.html">Contacto</a></li>
+</ul>
+<section class="mas-portales">
+<h2 onclick="ueUtils.toggleClass('portales','open');">Otras webs de Unidad Editorial</h2>
+<ul id="portales" class="divide">
+<li><a title="Clasificados Motor" href="http://www.marcamotoranuncios.com">Clasificados Motor</a></li>
+<li><a title="Masters - Escuela Unidad Editorial" href="http://www.escuelaunidadeditorial.es/">Masters - Escuela Unidad Editorial</a></li>
+<li><a title="Coches - Marcamotor.com" href="http://www.marcamotor.com">Coches - Marcamotor.com</a></li>
+<li><a title="Unidad Editorial" href="http://www.unidadeditorial.es">Unidad Editorial</a></li>
+<li><a title="Consolas - Marca Player" href="http://es.ign.com">IGN Espa&ntilde;a</a></li>
+<li><a title="Farmacia - Correo Farmac�utico" href="http://www.correofarmaceutico.com">Farmacia - Correo Farmace&uacute;tico</a></li>
+<li><a title="Enfermedades - Dmedicina" href="http://www.dmedicina.com">Enfermedades - Dmedicina</a></li>
+<li><a title="Medicina - Diario M�dico" href="http://www.diariomedico.com">Medicina - Diario M&eacute;dico</a></li>
+<li><a title="Trabajo - Expansion y Empleo" href="http://www.expansionyempleo.com">Trabajo - Expansion y Empleo</a></li>
+<li><a title="Orbyt Smart TV" href="http://www.orbyt.tv/portal/index.html">Orbyt Smart TV</a></li>
+<li><a title="Pisos - Su Vivienda" href="http://www.globaliza.com">Pisos - Su Vivienda</a></li>
+<li><a title="Econom�a - Expansi�n" href="http://www.expansion.com">Econom&iacute;a - Expansi&oacute;n</a></li>
+<li><a title="F1 - Marca" href="http://www.marca.com/motor/formula1.html">F1 - Marca</a></li>
+<li><a title="Ocio - Tiramillas" href="http://www.tiramillas.net">Ocio - Tiramillas</a></li>
+<li><a title="Moda - Telva" href="http://www.telva.com">Moda - Telva</a></li>
+<li><a title="Callejero" href="http://www.elmundo.es/r/pa_callejero.html">Callejero</a> / <a title="Restaurantes" href="http://www.elmundo.es/r/pa_restaurantes.html">Restaurantes</a></li>
+</ul>
+</section>
+<ul class="partners">
+<li><a href="http://www.reverso.net/" rel="nofollow"><img alt="Powered by Reverso" src="http://estaticos.elmundo.es/assets/desktop/master/img/partners/reverso.gif"></a></li>
+<li><a href="http://www.eu.ntt.com/es/index.html" rel="nofollow"><img alt="Powered by NTT" src="http://estaticos.elmundo.es/assets/desktop/master/img/partners/powered-ntt.gif"></a></li>
+</ul>
+</div>
+</footer>
+ 
+<div class="publicidad publicidad-inferior">
+<!-- CrawlerB. -->
+<div style="position:absolute;top:0px;left:0px;width:1px;height:1px;visibility:hidden;z-Index:2"><img sRc="http://anapixel.elmundo.es/prueba.gif?campaign=zz%5Fagent&group=agent&page=mundo%5Fagent%5Fe&creativity=agent&endpartialtimestamp=77359400&sign=ae3608aaf1502df3ea0e469871b63da1&type=gif" width="1" height="1" border="0" alt="anapixel"/></div>
+</div>
+</div> 
+ 
+<div class="publicidad publicidad_lateral_a">
+<!-- CrawlerB. -->
+</div>
+ 
+<div class="publicidad publicidad_lateral_b">
+<!-- CrawlerB. -->
+</div>
+</div> 
+<!-- SiteCatalyst code version: H.25.1.
+Copyright 1996-2012 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript"><!--
+var s = {};
+var pageName = "http://www.elmundo.es/";
+s.pageType="";
+s.pageName=pageName.replace(/^[^\/]*(?:\/[^\/]*){2}/, "");
+s.channel="portada";
+s.prop1="portada";
+s.prop2="";
+    s.prop3="";
+s.prop4="ESPANA";
+s.prop6="526feae561fd3d3c3f8b4578-Portada";
+s.prop7="elmundo.es"
+if (s.prop3 != '') {
+    s.hier1=s.prop7 + "|" + s.channel + '|' + s.prop1 + '|' + s.prop3;
+} else {
+    s.hier1=s.prop7 + "|" + s.channel + '|' + s.prop1;
+}
+                    s.prop27="web";
+s.prop29="Portada";
+s.list2=s.prop29;
+s.prop30="";
+s.prop31=s.channel;
+    s.prop32="home";
+s.prop2= s.prop32;
+s.hier1 = s.hier1 + "|" + s.prop32;
+s.prop33="chile"
+s.prop34="movil"
+s.prop39="nuevo"
+s.prop52=navigator.platform;
+s.prop75="";
+/* Conversion Variables */
+s.eVar1=s.channel;
+s.eVar2=s.prop1;
+s.eVar3=s.prop2;
+s.eVar4=s.prop3;
+s.eVar35=s.prop4;
+s.eVar31=s.prop6;
+s.eVar36=s.prop7;
+s.eVar27=s.prop27;
+s.eVar29=s.prop29;
+s.eVar30=s.prop30;
+s.eVar45=s.prop32;
+s.eVar33=s.prop33;
+s.eVar34=s.prop34;
+s.eVar39=s.prop39;
+s.eVar52=s.prop52;
+s.eVar75=s.prop75;
+var s_omniture = s;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+//--></script>
+<script type="text/javascript">
+function DM_prepClient(csid,client) {
+   client.DM_cat("portada > portada > autocover");
+}
+</script>
+<!-- SiteCatalyst code version: H.21.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script type="text/javascript" src="http://active.cache.el-mundo.net/js/s_code.js"></script>
+<script type="text/javascript"><!--
+if (window['s_omniture']) {for(var i in s_omniture) {s[i]=s_omniture[i];}}
+try {omniture_fill_vars_reg_user_metrics('REGMUNDO','UEMeter',s,'UEIdUsrAnon');} catch (omniture_fill_vars_reg_user_exception) {}
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
+//--></script><noscript><img src="http://metrics.el-mundo.net/b/ss/uevistatest/1/H.21--NS/0"
+height="1" width="1" alt="" /></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.21. -->
+<!-- cXense script begin -->
+<div id="cX-root" style="display:none"></div>
+<script type="text/javascript">
+  var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+  cX.callQueue.push(['setAccountId', '9222274424412905874']);
+  cX.callQueue.push(['setSiteId', '9222274424412905877']);
+  cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+  (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+  scriptEl.src = ('https:' == document.location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://active.cache.el-mundo.net/banners/cxense/cx.js';
+  var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- cXense script end --> 
+<script type='text/javascript'>
+var aplus = (function(){
+var _my_script, SP;
+if (typeof GetSiteAndPage === 'function') {
+    SP=GetSiteAndPage();
+    _my_script=document.createElement('SCRIPT');
+    _my_script.type='text/javascript';
+    _my_script.src='http://www.wtp101.com/pixel?id=16302&pb=3100&rd=1&st='+SP.Site+'&se='+SP.Page;
+    document.body.insertBefore(_my_script,document.body.lastChild.nextSibling)
+}
+})();
+</script>
+</body>
+</html>
